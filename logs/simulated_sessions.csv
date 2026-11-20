@@ -1,0 +1,1729 @@
+timestamp_utc,session_id,participant_id,case_id,ai_condition,event,region,z_score,ai_flag,rating,ground_truth,ms_since_case_open
+,sim0001,SIM01,CASE-01,ai_on,case_open,,,,,,0
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Hippocampus,0.27,0.0,0.0,0.0,1792
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Hippocampus,0.68,0.0,0.0,0.0,3137
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Entorhinal cortex,-1.76,1.0,1.0,0.0,4780
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Entorhinal cortex,0.12,0.0,0.0,0.0,7087
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Amygdala,-0.02,0.0,0.0,0.0,9064
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Amygdala,0.79,1.0,0.0,0.0,10729
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Precuneus,0.06,1.0,1.0,0.0,11686
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Precuneus,0.42,0.0,0.0,0.0,13916
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Superior frontal gyrus,0.33,0.0,0.0,0.0,14647
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Superior frontal gyrus,0.79,0.0,0.0,0.0,16739
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Superior temporal gyrus,-0.17,0.0,0.0,0.0,18860
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Superior temporal gyrus,1.1,1.0,1.0,0.0,21917
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Insula,-0.39,0.0,0.0,0.0,24766
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Insula,0.48,0.0,0.0,0.0,26857
+,sim0001,SIM01,CASE-01,ai_on,rating,Left Lateral ventricle,0.37,0.0,0.0,0.0,28918
+,sim0001,SIM01,CASE-01,ai_on,rating,Right Lateral ventricle,1.93,1.0,0.0,0.0,31739
+,sim0001,SIM01,CASE-01,ai_on,case_complete,,,,,,32539
+,sim0001,SIM01,CASE-02,ai_on,case_open,,,,,,0
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Hippocampus,-2.78,1.0,1.0,1.0,4452
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Hippocampus,-0.97,0.0,0.0,0.0,6512
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Entorhinal cortex,-3.48,1.0,1.0,1.0,9141
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Entorhinal cortex,-2.48,0.0,0.0,1.0,12696
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Amygdala,-2.1,1.0,1.0,1.0,14358
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Amygdala,-1.88,0.0,0.0,0.0,15944
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Precuneus,0.26,0.0,0.0,0.0,19106
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Precuneus,-1.31,0.0,0.0,0.0,21697
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Superior frontal gyrus,-0.42,0.0,0.0,0.0,23621
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Superior frontal gyrus,-0.25,0.0,0.0,0.0,25375
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Superior temporal gyrus,-0.78,0.0,0.0,0.0,29054
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Superior temporal gyrus,-1.51,0.0,0.0,0.0,31357
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Insula,0.15,0.0,0.0,0.0,32638
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Insula,0.64,0.0,0.0,0.0,35826
+,sim0001,SIM01,CASE-02,ai_on,rating,Left Lateral ventricle,2.01,1.0,1.0,1.0,38439
+,sim0001,SIM01,CASE-02,ai_on,rating,Right Lateral ventricle,2.65,1.0,1.0,1.0,40435
+,sim0001,SIM01,CASE-02,ai_on,case_complete,,,,,,41235
+,sim0001,SIM01,CASE-03,ai_off,case_open,,,,,,0
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Hippocampus,-0.83,,0.0,0.0,2872
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Hippocampus,0.13,,0.0,0.0,3979
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Entorhinal cortex,-0.38,,0.0,0.0,5724
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Entorhinal cortex,0.56,,0.0,0.0,11860
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Amygdala,0.41,,0.0,0.0,13808
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Amygdala,-0.33,,0.0,0.0,16853
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Precuneus,-1.08,,1.0,0.0,19155
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Precuneus,-0.42,,1.0,0.0,22233
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Superior frontal gyrus,0.43,,0.0,0.0,24655
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Superior frontal gyrus,0.6,,0.0,0.0,26295
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Superior temporal gyrus,-0.38,,0.0,0.0,28068
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Superior temporal gyrus,-1.52,,0.0,0.0,30769
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Insula,-1.19,,0.0,0.0,32742
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Insula,0.36,,0.0,0.0,33867
+,sim0001,SIM01,CASE-03,ai_off,rating,Left Lateral ventricle,-0.34,,0.0,0.0,36757
+,sim0001,SIM01,CASE-03,ai_off,rating,Right Lateral ventricle,-0.32,,0.0,0.0,40265
+,sim0001,SIM01,CASE-03,ai_off,case_complete,,,,,,41065
+,sim0001,SIM01,CASE-04,ai_off,case_open,,,,,,0
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Hippocampus,-3.02,,1.0,1.0,3384
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Hippocampus,-2.74,,1.0,1.0,6798
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Entorhinal cortex,-2.22,,1.0,1.0,8150
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Entorhinal cortex,-4.16,,1.0,1.0,12600
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Amygdala,-2.47,,0.0,1.0,14841
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Amygdala,-2.13,,1.0,1.0,16533
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Precuneus,0.2,,1.0,0.0,18545
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Precuneus,0.75,,1.0,0.0,20365
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Superior frontal gyrus,1.32,,0.0,0.0,21865
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Superior frontal gyrus,-0.58,,1.0,0.0,24216
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Superior temporal gyrus,-0.35,,0.0,0.0,26729
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Superior temporal gyrus,0.57,,0.0,0.0,28923
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Insula,-1.32,,0.0,0.0,31431
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Insula,0.28,,0.0,0.0,33648
+,sim0001,SIM01,CASE-04,ai_off,rating,Left Lateral ventricle,4.19,,1.0,1.0,35458
+,sim0001,SIM01,CASE-04,ai_off,rating,Right Lateral ventricle,1.48,,0.0,0.0,37370
+,sim0001,SIM01,CASE-04,ai_off,case_complete,,,,,,38170
+,sim0001,SIM01,CASE-05,ai_on,case_open,,,,,,0
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Hippocampus,-0.73,0.0,0.0,0.0,2289
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Hippocampus,-0.55,0.0,0.0,0.0,4129
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Entorhinal cortex,0.96,1.0,1.0,0.0,6812
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Entorhinal cortex,-0.14,0.0,0.0,0.0,8293
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Amygdala,-1.51,0.0,0.0,0.0,10182
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Amygdala,-0.05,0.0,0.0,0.0,13594
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Precuneus,0.12,0.0,0.0,0.0,15567
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Precuneus,-0.45,0.0,0.0,0.0,18140
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Superior frontal gyrus,-0.87,0.0,0.0,0.0,20158
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Superior frontal gyrus,1.92,1.0,1.0,0.0,22489
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Superior temporal gyrus,0.75,0.0,0.0,0.0,25413
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Superior temporal gyrus,0.84,0.0,0.0,0.0,27897
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Insula,-0.14,0.0,0.0,0.0,30788
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Insula,-0.59,0.0,0.0,0.0,32003
+,sim0001,SIM01,CASE-05,ai_on,rating,Left Lateral ventricle,-0.41,0.0,0.0,0.0,34839
+,sim0001,SIM01,CASE-05,ai_on,rating,Right Lateral ventricle,-1.15,1.0,1.0,0.0,36104
+,sim0001,SIM01,CASE-05,ai_on,case_complete,,,,,,36904
+,sim0001,SIM01,CASE-06,ai_off,case_open,,,,,,0
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Hippocampus,-1.63,,0.0,0.0,1666
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Hippocampus,-1.99,,0.0,0.0,5164
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Entorhinal cortex,-2.69,,1.0,1.0,6239
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Entorhinal cortex,-0.79,,0.0,0.0,8783
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Amygdala,-3.2,,1.0,1.0,11322
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Amygdala,-2.21,,1.0,1.0,12687
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Precuneus,-1.0,,0.0,0.0,14382
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Precuneus,0.58,,0.0,0.0,17442
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Superior frontal gyrus,-0.0,,0.0,0.0,20384
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Superior frontal gyrus,0.3,,0.0,0.0,22305
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Superior temporal gyrus,0.08,,1.0,0.0,24059
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Superior temporal gyrus,-1.85,,0.0,0.0,25886
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Insula,-0.76,,0.0,0.0,28750
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Insula,-0.79,,1.0,0.0,30183
+,sim0001,SIM01,CASE-06,ai_off,rating,Left Lateral ventricle,3.51,,1.0,1.0,32595
+,sim0001,SIM01,CASE-06,ai_off,rating,Right Lateral ventricle,1.73,,0.0,0.0,33994
+,sim0001,SIM01,CASE-06,ai_off,case_complete,,,,,,34794
+,sim0001,SIM01,CASE-07,ai_on,case_open,,,,,,0
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Hippocampus,0.48,1.0,1.0,0.0,2692
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Hippocampus,-0.14,1.0,1.0,0.0,4473
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Entorhinal cortex,-0.2,0.0,0.0,0.0,5302
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Entorhinal cortex,0.16,0.0,0.0,0.0,5847
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Amygdala,0.08,0.0,0.0,0.0,7885
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Amygdala,2.27,1.0,1.0,1.0,11029
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Precuneus,-0.77,1.0,1.0,0.0,12986
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Precuneus,-1.32,0.0,0.0,0.0,15481
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Superior frontal gyrus,0.28,0.0,0.0,0.0,17935
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Superior frontal gyrus,-0.66,0.0,0.0,0.0,19138
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Superior temporal gyrus,-1.93,0.0,0.0,0.0,20315
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Superior temporal gyrus,-0.96,1.0,1.0,0.0,21977
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Insula,1.99,0.0,0.0,0.0,22680
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Insula,-0.79,0.0,0.0,0.0,24747
+,sim0001,SIM01,CASE-07,ai_on,rating,Left Lateral ventricle,-1.58,0.0,0.0,0.0,26610
+,sim0001,SIM01,CASE-07,ai_on,rating,Right Lateral ventricle,1.92,0.0,0.0,0.0,28605
+,sim0001,SIM01,CASE-07,ai_on,case_complete,,,,,,29405
+,sim0001,SIM01,CASE-08,ai_off,case_open,,,,,,0
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Hippocampus,-3.93,,1.0,1.0,2139
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Hippocampus,-3.69,,0.0,1.0,6822
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Entorhinal cortex,-0.68,,0.0,0.0,10430
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Entorhinal cortex,-1.33,,0.0,0.0,13043
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Amygdala,-2.08,,1.0,1.0,15303
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Amygdala,-2.28,,1.0,1.0,17858
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Precuneus,0.42,,0.0,0.0,20980
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Precuneus,0.14,,0.0,0.0,22963
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Superior frontal gyrus,0.05,,0.0,0.0,27709
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Superior frontal gyrus,-0.65,,0.0,0.0,30278
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Superior temporal gyrus,-0.09,,0.0,0.0,31882
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Superior temporal gyrus,1.42,,1.0,0.0,35428
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Insula,-0.69,,0.0,0.0,37710
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Insula,0.24,,1.0,0.0,40322
+,sim0001,SIM01,CASE-08,ai_off,rating,Left Lateral ventricle,2.93,,1.0,1.0,42598
+,sim0001,SIM01,CASE-08,ai_off,rating,Right Lateral ventricle,1.24,,1.0,0.0,46159
+,sim0001,SIM01,CASE-08,ai_off,case_complete,,,,,,46959
+,sim0002,SIM02,CASE-01,ai_on,case_open,,,,,,0
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Hippocampus,0.27,0.0,0.0,0.0,3680
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Hippocampus,0.68,0.0,0.0,0.0,5252
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Entorhinal cortex,-1.76,1.0,1.0,0.0,6596
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Entorhinal cortex,0.12,0.0,0.0,0.0,8400
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Amygdala,-0.02,0.0,0.0,0.0,10672
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Amygdala,0.79,1.0,1.0,0.0,14009
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Precuneus,0.06,1.0,1.0,0.0,17689
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Precuneus,0.42,0.0,0.0,0.0,22056
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Superior frontal gyrus,0.33,0.0,0.0,0.0,23220
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Superior frontal gyrus,0.79,0.0,0.0,0.0,26156
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Superior temporal gyrus,-0.17,0.0,0.0,0.0,27791
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Superior temporal gyrus,1.1,1.0,1.0,0.0,29970
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Insula,-0.39,0.0,0.0,0.0,31938
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Insula,0.48,0.0,0.0,0.0,34384
+,sim0002,SIM02,CASE-01,ai_on,rating,Left Lateral ventricle,0.37,0.0,0.0,0.0,36429
+,sim0002,SIM02,CASE-01,ai_on,rating,Right Lateral ventricle,1.93,1.0,0.0,0.0,37347
+,sim0002,SIM02,CASE-01,ai_on,case_complete,,,,,,38147
+,sim0002,SIM02,CASE-02,ai_off,case_open,,,,,,0
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,1.0,1.0,3316
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,1.0,0.0,4578
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,6483
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,12651
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,14482
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Amygdala,-1.88,,0.0,0.0,16926
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,18503
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Precuneus,-1.31,,1.0,0.0,20081
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,23905
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,25973
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,28345
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,30528
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Insula,0.15,,1.0,0.0,31931
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Insula,0.64,,0.0,0.0,34247
+,sim0002,SIM02,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,0.0,1.0,37979
+,sim0002,SIM02,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,0.0,1.0,39806
+,sim0002,SIM02,CASE-02,ai_off,case_complete,,,,,,40606
+,sim0002,SIM02,CASE-03,ai_on,case_open,,,,,,0
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Hippocampus,-0.83,0.0,1.0,0.0,2340
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Hippocampus,0.13,0.0,0.0,0.0,4515
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Entorhinal cortex,-0.38,0.0,0.0,0.0,7276
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Entorhinal cortex,0.56,0.0,0.0,0.0,10704
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Amygdala,0.41,0.0,0.0,0.0,12420
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Amygdala,-0.33,0.0,0.0,0.0,17937
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Precuneus,-1.08,0.0,0.0,0.0,19481
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Precuneus,-0.42,0.0,0.0,0.0,21197
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Superior frontal gyrus,0.43,0.0,0.0,0.0,24268
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Superior frontal gyrus,0.6,0.0,0.0,0.0,25905
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Superior temporal gyrus,-0.38,0.0,0.0,0.0,27519
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Superior temporal gyrus,-1.52,0.0,0.0,0.0,28845
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Insula,-1.19,1.0,0.0,0.0,31692
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Insula,0.36,0.0,0.0,0.0,33234
+,sim0002,SIM02,CASE-03,ai_on,rating,Left Lateral ventricle,-0.34,1.0,0.0,0.0,34860
+,sim0002,SIM02,CASE-03,ai_on,rating,Right Lateral ventricle,-0.32,0.0,0.0,0.0,37194
+,sim0002,SIM02,CASE-03,ai_on,case_complete,,,,,,37994
+,sim0002,SIM02,CASE-04,ai_on,case_open,,,,,,0
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,2530
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,4493
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,6535
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,0.0,1.0,8503
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,9801
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,11870
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,13164
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,15492
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,18017
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,19373
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,1.0,0.0,23584
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,25559
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,29850
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,31184
+,sim0002,SIM02,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,0.0,1.0,33961
+,sim0002,SIM02,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,35696
+,sim0002,SIM02,CASE-04,ai_on,case_complete,,,,,,36496
+,sim0002,SIM02,CASE-05,ai_off,case_open,,,,,,0
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Hippocampus,-0.73,,0.0,0.0,3086
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Hippocampus,-0.55,,0.0,0.0,6876
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Entorhinal cortex,0.96,,0.0,0.0,9107
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Entorhinal cortex,-0.14,,1.0,0.0,10798
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Amygdala,-1.51,,0.0,0.0,14269
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Amygdala,-0.05,,0.0,0.0,16034
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Precuneus,0.12,,0.0,0.0,18170
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Precuneus,-0.45,,0.0,0.0,20587
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Superior frontal gyrus,-0.87,,0.0,0.0,22183
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Superior frontal gyrus,1.92,,0.0,0.0,24645
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Superior temporal gyrus,0.75,,0.0,0.0,29920
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Superior temporal gyrus,0.84,,0.0,0.0,31760
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Insula,-0.14,,0.0,0.0,33721
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Insula,-0.59,,0.0,0.0,36163
+,sim0002,SIM02,CASE-05,ai_off,rating,Left Lateral ventricle,-0.41,,0.0,0.0,39349
+,sim0002,SIM02,CASE-05,ai_off,rating,Right Lateral ventricle,-1.15,,0.0,0.0,42112
+,sim0002,SIM02,CASE-05,ai_off,case_complete,,,,,,42912
+,sim0002,SIM02,CASE-06,ai_on,case_open,,,,,,0
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Hippocampus,-1.63,1.0,1.0,0.0,1495
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Hippocampus,-1.99,0.0,0.0,0.0,3101
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Entorhinal cortex,-2.69,1.0,1.0,1.0,4261
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Entorhinal cortex,-0.79,1.0,1.0,0.0,5824
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Amygdala,-3.2,0.0,0.0,1.0,7898
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Amygdala,-2.21,1.0,1.0,1.0,9586
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Precuneus,-1.0,0.0,0.0,0.0,11382
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Precuneus,0.58,1.0,1.0,0.0,12617
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Superior frontal gyrus,-0.0,0.0,0.0,0.0,14990
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Superior frontal gyrus,0.3,0.0,0.0,0.0,17484
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Superior temporal gyrus,0.08,0.0,0.0,0.0,19688
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Superior temporal gyrus,-1.85,0.0,1.0,0.0,21228
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Insula,-0.76,0.0,0.0,0.0,23604
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Insula,-0.79,1.0,0.0,0.0,26084
+,sim0002,SIM02,CASE-06,ai_on,rating,Left Lateral ventricle,3.51,1.0,1.0,1.0,28280
+,sim0002,SIM02,CASE-06,ai_on,rating,Right Lateral ventricle,1.73,0.0,1.0,0.0,30166
+,sim0002,SIM02,CASE-06,ai_on,case_complete,,,,,,30966
+,sim0002,SIM02,CASE-07,ai_off,case_open,,,,,,0
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Hippocampus,0.48,,0.0,0.0,1376
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,3316
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,1.0,0.0,5471
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,10501
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,12900
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,14410
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Precuneus,-0.77,,1.0,0.0,17373
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,19986
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,21822
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,0.0,0.0,25171
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,1.0,0.0,29008
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,1.0,0.0,31217
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Insula,1.99,,1.0,0.0,32891
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,36045
+,sim0002,SIM02,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,38873
+,sim0002,SIM02,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,1.0,0.0,41033
+,sim0002,SIM02,CASE-07,ai_off,case_complete,,,,,,41833
+,sim0002,SIM02,CASE-08,ai_off,case_open,,,,,,0
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Hippocampus,-3.93,,1.0,1.0,1769
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Hippocampus,-3.69,,0.0,1.0,3956
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Entorhinal cortex,-0.68,,0.0,0.0,6867
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Entorhinal cortex,-1.33,,1.0,0.0,9353
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Amygdala,-2.08,,1.0,1.0,10181
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Amygdala,-2.28,,1.0,1.0,13288
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Precuneus,0.42,,0.0,0.0,18224
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Precuneus,0.14,,0.0,0.0,21057
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Superior frontal gyrus,0.05,,0.0,0.0,24482
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Superior frontal gyrus,-0.65,,0.0,0.0,26942
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Superior temporal gyrus,-0.09,,0.0,0.0,32412
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Superior temporal gyrus,1.42,,0.0,0.0,34864
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Insula,-0.69,,0.0,0.0,39143
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Insula,0.24,,0.0,0.0,43642
+,sim0002,SIM02,CASE-08,ai_off,rating,Left Lateral ventricle,2.93,,1.0,1.0,45963
+,sim0002,SIM02,CASE-08,ai_off,rating,Right Lateral ventricle,1.24,,0.0,0.0,49387
+,sim0002,SIM02,CASE-08,ai_off,case_complete,,,,,,50187
+,sim0003,SIM03,CASE-01,ai_off,case_open,,,,,,0
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Hippocampus,0.27,,0.0,0.0,2861
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Hippocampus,0.68,,0.0,0.0,4220
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Entorhinal cortex,-1.76,,0.0,0.0,7267
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Entorhinal cortex,0.12,,0.0,0.0,9334
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Amygdala,-0.02,,0.0,0.0,11605
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Amygdala,0.79,,0.0,0.0,13341
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Precuneus,0.06,,0.0,0.0,16054
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Precuneus,0.42,,0.0,0.0,19330
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Superior frontal gyrus,0.33,,0.0,0.0,21058
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Superior frontal gyrus,0.79,,0.0,0.0,23230
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Superior temporal gyrus,-0.17,,0.0,0.0,25953
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Superior temporal gyrus,1.1,,0.0,0.0,27894
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Insula,-0.39,,1.0,0.0,31953
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Insula,0.48,,0.0,0.0,37514
+,sim0003,SIM03,CASE-01,ai_off,rating,Left Lateral ventricle,0.37,,0.0,0.0,40243
+,sim0003,SIM03,CASE-01,ai_off,rating,Right Lateral ventricle,1.93,,0.0,0.0,42622
+,sim0003,SIM03,CASE-01,ai_off,case_complete,,,,,,43422
+,sim0003,SIM03,CASE-02,ai_off,case_open,,,,,,0
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,0.0,1.0,2620
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,0.0,0.0,4414
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,5821
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,7667
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,10389
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Amygdala,-1.88,,1.0,0.0,12575
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,14327
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,15986
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,18459
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,20630
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,23939
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,25590
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Insula,0.15,,1.0,0.0,32474
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Insula,0.64,,0.0,0.0,34865
+,sim0003,SIM03,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,1.0,1.0,40558
+,sim0003,SIM03,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,42717
+,sim0003,SIM03,CASE-02,ai_off,case_complete,,,,,,43517
+,sim0003,SIM03,CASE-03,ai_on,case_open,,,,,,0
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Hippocampus,-0.83,0.0,0.0,0.0,2437
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Hippocampus,0.13,0.0,1.0,0.0,6755
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Entorhinal cortex,-0.38,0.0,0.0,0.0,9385
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Entorhinal cortex,0.56,0.0,0.0,0.0,11966
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Amygdala,0.41,0.0,0.0,0.0,14594
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Amygdala,-0.33,0.0,0.0,0.0,16911
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Precuneus,-1.08,0.0,0.0,0.0,18481
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Precuneus,-0.42,0.0,0.0,0.0,21735
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Superior frontal gyrus,0.43,0.0,0.0,0.0,26151
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Superior frontal gyrus,0.6,0.0,0.0,0.0,27550
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Superior temporal gyrus,-0.38,0.0,0.0,0.0,29614
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Superior temporal gyrus,-1.52,0.0,0.0,0.0,30707
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Insula,-1.19,1.0,1.0,0.0,32472
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Insula,0.36,0.0,0.0,0.0,34037
+,sim0003,SIM03,CASE-03,ai_on,rating,Left Lateral ventricle,-0.34,1.0,1.0,0.0,38221
+,sim0003,SIM03,CASE-03,ai_on,rating,Right Lateral ventricle,-0.32,0.0,0.0,0.0,40874
+,sim0003,SIM03,CASE-03,ai_on,case_complete,,,,,,41674
+,sim0003,SIM03,CASE-04,ai_on,case_open,,,,,,0
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,1956
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,4031
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,5327
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,1.0,1.0,7272
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,9927
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,12814
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,16538
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,18162
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,19692
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,22241
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,24941
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,27423
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,29148
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Insula,0.28,0.0,1.0,0.0,31468
+,sim0003,SIM03,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,1.0,1.0,33315
+,sim0003,SIM03,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,34699
+,sim0003,SIM03,CASE-04,ai_on,case_complete,,,,,,35499
+,sim0003,SIM03,CASE-05,ai_on,case_open,,,,,,0
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Hippocampus,-0.73,0.0,0.0,0.0,1545
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Hippocampus,-0.55,0.0,0.0,0.0,2452
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Entorhinal cortex,0.96,1.0,1.0,0.0,4759
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Entorhinal cortex,-0.14,0.0,0.0,0.0,6789
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Amygdala,-1.51,0.0,0.0,0.0,9129
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Amygdala,-0.05,0.0,0.0,0.0,11001
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Precuneus,0.12,0.0,0.0,0.0,12163
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Precuneus,-0.45,0.0,0.0,0.0,13395
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Superior frontal gyrus,-0.87,0.0,0.0,0.0,15324
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Superior frontal gyrus,1.92,1.0,1.0,0.0,16872
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Superior temporal gyrus,0.75,0.0,0.0,0.0,18841
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Superior temporal gyrus,0.84,0.0,0.0,0.0,20178
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Insula,-0.14,0.0,0.0,0.0,22915
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Insula,-0.59,0.0,0.0,0.0,24891
+,sim0003,SIM03,CASE-05,ai_on,rating,Left Lateral ventricle,-0.41,0.0,0.0,0.0,26545
+,sim0003,SIM03,CASE-05,ai_on,rating,Right Lateral ventricle,-1.15,1.0,1.0,0.0,28240
+,sim0003,SIM03,CASE-05,ai_on,case_complete,,,,,,29040
+,sim0003,SIM03,CASE-06,ai_off,case_open,,,,,,0
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Hippocampus,-1.63,,0.0,0.0,1230
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Hippocampus,-1.99,,0.0,0.0,4670
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Entorhinal cortex,-2.69,,1.0,1.0,7093
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Entorhinal cortex,-0.79,,0.0,0.0,10311
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Amygdala,-3.2,,1.0,1.0,11877
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Amygdala,-2.21,,1.0,1.0,16339
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Precuneus,-1.0,,0.0,0.0,20314
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Precuneus,0.58,,0.0,0.0,23952
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Superior frontal gyrus,-0.0,,0.0,0.0,26300
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Superior frontal gyrus,0.3,,1.0,0.0,29698
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Superior temporal gyrus,0.08,,0.0,0.0,32114
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Superior temporal gyrus,-1.85,,0.0,0.0,36171
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Insula,-0.76,,0.0,0.0,37417
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Insula,-0.79,,0.0,0.0,39933
+,sim0003,SIM03,CASE-06,ai_off,rating,Left Lateral ventricle,3.51,,1.0,1.0,44166
+,sim0003,SIM03,CASE-06,ai_off,rating,Right Lateral ventricle,1.73,,0.0,0.0,47626
+,sim0003,SIM03,CASE-06,ai_off,case_complete,,,,,,48426
+,sim0003,SIM03,CASE-07,ai_off,case_open,,,,,,0
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Hippocampus,0.48,,0.0,0.0,3538
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,6943
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,0.0,0.0,9602
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,11327
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Amygdala,0.08,,1.0,0.0,14333
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,16432
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Precuneus,-0.77,,0.0,0.0,18669
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,21040
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,23519
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,1.0,0.0,25217
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,28478
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,1.0,0.0,31168
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,35104
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,40717
+,sim0003,SIM03,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,44079
+,sim0003,SIM03,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,0.0,0.0,46683
+,sim0003,SIM03,CASE-07,ai_off,case_complete,,,,,,47483
+,sim0003,SIM03,CASE-08,ai_on,case_open,,,,,,0
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,1.0,1.0,1180
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,4693
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,6928
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,9359
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,12226
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,14281
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,15789
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,17643
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,1.0,0.0,20865
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,24176
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,25908
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,27594
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,29140
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,30754
+,sim0003,SIM03,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,0.0,1.0,32778
+,sim0003,SIM03,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,35900
+,sim0003,SIM03,CASE-08,ai_on,case_complete,,,,,,36700
+,sim0004,SIM04,CASE-01,ai_on,case_open,,,,,,0
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Hippocampus,0.27,0.0,0.0,0.0,4960
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Hippocampus,0.68,0.0,0.0,0.0,6721
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Entorhinal cortex,-1.76,1.0,1.0,0.0,7637
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Entorhinal cortex,0.12,0.0,0.0,0.0,10380
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Amygdala,-0.02,0.0,0.0,0.0,12779
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Amygdala,0.79,1.0,1.0,0.0,15796
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Precuneus,0.06,1.0,1.0,0.0,17118
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Precuneus,0.42,0.0,0.0,0.0,18520
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Superior frontal gyrus,0.33,0.0,1.0,0.0,19908
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Superior frontal gyrus,0.79,0.0,0.0,0.0,22348
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Superior temporal gyrus,-0.17,0.0,0.0,0.0,25389
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Superior temporal gyrus,1.1,1.0,1.0,0.0,27905
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Insula,-0.39,0.0,0.0,0.0,29719
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Insula,0.48,0.0,0.0,0.0,31114
+,sim0004,SIM04,CASE-01,ai_on,rating,Left Lateral ventricle,0.37,0.0,0.0,0.0,33520
+,sim0004,SIM04,CASE-01,ai_on,rating,Right Lateral ventricle,1.93,1.0,1.0,0.0,35860
+,sim0004,SIM04,CASE-01,ai_on,case_complete,,,,,,36660
+,sim0004,SIM04,CASE-02,ai_on,case_open,,,,,,0
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Hippocampus,-2.78,1.0,1.0,1.0,2320
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Hippocampus,-0.97,0.0,0.0,0.0,3855
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Entorhinal cortex,-3.48,1.0,1.0,1.0,5904
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Entorhinal cortex,-2.48,0.0,1.0,1.0,6874
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Amygdala,-2.1,1.0,1.0,1.0,9195
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Amygdala,-1.88,0.0,0.0,0.0,11027
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Precuneus,0.26,0.0,0.0,0.0,12021
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Precuneus,-1.31,0.0,0.0,0.0,13379
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Superior frontal gyrus,-0.42,0.0,0.0,0.0,15975
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Superior frontal gyrus,-0.25,0.0,0.0,0.0,17735
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Superior temporal gyrus,-0.78,0.0,0.0,0.0,21772
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Superior temporal gyrus,-1.51,0.0,0.0,0.0,23127
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Insula,0.15,0.0,0.0,0.0,25917
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Insula,0.64,0.0,0.0,0.0,26822
+,sim0004,SIM04,CASE-02,ai_on,rating,Left Lateral ventricle,2.01,1.0,1.0,1.0,28560
+,sim0004,SIM04,CASE-02,ai_on,rating,Right Lateral ventricle,2.65,1.0,1.0,1.0,29712
+,sim0004,SIM04,CASE-02,ai_on,case_complete,,,,,,30512
+,sim0004,SIM04,CASE-03,ai_off,case_open,,,,,,0
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Hippocampus,-0.83,,0.0,0.0,3952
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Hippocampus,0.13,,1.0,0.0,5715
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Entorhinal cortex,-0.38,,0.0,0.0,9451
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Entorhinal cortex,0.56,,1.0,0.0,11348
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Amygdala,0.41,,0.0,0.0,14881
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Amygdala,-0.33,,0.0,0.0,16480
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Precuneus,-1.08,,0.0,0.0,18370
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Precuneus,-0.42,,0.0,0.0,21745
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Superior frontal gyrus,0.43,,0.0,0.0,24775
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Superior frontal gyrus,0.6,,0.0,0.0,28772
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Superior temporal gyrus,-0.38,,1.0,0.0,32312
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Superior temporal gyrus,-1.52,,0.0,0.0,34166
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Insula,-1.19,,0.0,0.0,36559
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Insula,0.36,,0.0,0.0,41061
+,sim0004,SIM04,CASE-03,ai_off,rating,Left Lateral ventricle,-0.34,,0.0,0.0,42667
+,sim0004,SIM04,CASE-03,ai_off,rating,Right Lateral ventricle,-0.32,,0.0,0.0,44950
+,sim0004,SIM04,CASE-03,ai_off,case_complete,,,,,,45750
+,sim0004,SIM04,CASE-04,ai_off,case_open,,,,,,0
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Hippocampus,-3.02,,0.0,1.0,2787
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Hippocampus,-2.74,,1.0,1.0,6726
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Entorhinal cortex,-2.22,,1.0,1.0,9226
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Entorhinal cortex,-4.16,,1.0,1.0,11862
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Amygdala,-2.47,,1.0,1.0,13598
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Amygdala,-2.13,,0.0,1.0,17031
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Precuneus,0.2,,0.0,0.0,18935
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Precuneus,0.75,,0.0,0.0,25231
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Superior frontal gyrus,1.32,,0.0,0.0,28052
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Superior frontal gyrus,-0.58,,1.0,0.0,31473
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Superior temporal gyrus,-0.35,,1.0,0.0,33773
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Superior temporal gyrus,0.57,,0.0,0.0,36070
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Insula,-1.32,,0.0,0.0,39437
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Insula,0.28,,0.0,0.0,41533
+,sim0004,SIM04,CASE-04,ai_off,rating,Left Lateral ventricle,4.19,,0.0,1.0,43984
+,sim0004,SIM04,CASE-04,ai_off,rating,Right Lateral ventricle,1.48,,0.0,0.0,46309
+,sim0004,SIM04,CASE-04,ai_off,case_complete,,,,,,47109
+,sim0004,SIM04,CASE-05,ai_on,case_open,,,,,,0
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Hippocampus,-0.73,0.0,0.0,0.0,2315
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Hippocampus,-0.55,0.0,0.0,0.0,4363
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Entorhinal cortex,0.96,1.0,1.0,0.0,7073
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Entorhinal cortex,-0.14,0.0,0.0,0.0,9100
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Amygdala,-1.51,0.0,0.0,0.0,10626
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Amygdala,-0.05,0.0,0.0,0.0,13784
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Precuneus,0.12,0.0,0.0,0.0,15277
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Precuneus,-0.45,0.0,0.0,0.0,18332
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Superior frontal gyrus,-0.87,0.0,0.0,0.0,19806
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Superior frontal gyrus,1.92,1.0,0.0,0.0,21810
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Superior temporal gyrus,0.75,0.0,0.0,0.0,25169
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Superior temporal gyrus,0.84,0.0,0.0,0.0,27729
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Insula,-0.14,0.0,0.0,0.0,29771
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Insula,-0.59,0.0,0.0,0.0,31850
+,sim0004,SIM04,CASE-05,ai_on,rating,Left Lateral ventricle,-0.41,0.0,0.0,0.0,32958
+,sim0004,SIM04,CASE-05,ai_on,rating,Right Lateral ventricle,-1.15,1.0,1.0,0.0,34830
+,sim0004,SIM04,CASE-05,ai_on,case_complete,,,,,,35630
+,sim0004,SIM04,CASE-06,ai_off,case_open,,,,,,0
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Hippocampus,-1.63,,0.0,0.0,2055
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Hippocampus,-1.99,,1.0,0.0,3352
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Entorhinal cortex,-2.69,,1.0,1.0,6450
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Entorhinal cortex,-0.79,,0.0,0.0,8115
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Amygdala,-3.2,,1.0,1.0,10647
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Amygdala,-2.21,,0.0,1.0,12619
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Precuneus,-1.0,,0.0,0.0,13827
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Precuneus,0.58,,0.0,0.0,18602
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Superior frontal gyrus,-0.0,,1.0,0.0,20786
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Superior frontal gyrus,0.3,,1.0,0.0,22938
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Superior temporal gyrus,0.08,,0.0,0.0,25378
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Superior temporal gyrus,-1.85,,1.0,0.0,27797
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Insula,-0.76,,0.0,0.0,30154
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Insula,-0.79,,1.0,0.0,32162
+,sim0004,SIM04,CASE-06,ai_off,rating,Left Lateral ventricle,3.51,,1.0,1.0,35392
+,sim0004,SIM04,CASE-06,ai_off,rating,Right Lateral ventricle,1.73,,1.0,0.0,37442
+,sim0004,SIM04,CASE-06,ai_off,case_complete,,,,,,38242
+,sim0004,SIM04,CASE-07,ai_off,case_open,,,,,,0
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Hippocampus,0.48,,0.0,0.0,3998
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,8357
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,1.0,0.0,10689
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,12136
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,14158
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,15403
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Precuneus,-0.77,,1.0,0.0,17883
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,21598
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,23915
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,0.0,0.0,26852
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,29044
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,0.0,0.0,34082
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,35456
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,36851
+,sim0004,SIM04,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,1.0,0.0,41065
+,sim0004,SIM04,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,0.0,0.0,42426
+,sim0004,SIM04,CASE-07,ai_off,case_complete,,,,,,43226
+,sim0004,SIM04,CASE-08,ai_on,case_open,,,,,,0
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,1.0,1.0,3311
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,5059
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,8268
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,11716
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,13614
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,16494
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,20058
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,22955
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,1.0,0.0,23704
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,25053
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,1.0,0.0,26700
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,28370
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,30741
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,32387
+,sim0004,SIM04,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,1.0,1.0,35109
+,sim0004,SIM04,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,37036
+,sim0004,SIM04,CASE-08,ai_on,case_complete,,,,,,37836
+,sim0005,SIM05,CASE-01,ai_on,case_open,,,,,,0
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Hippocampus,0.27,0.0,0.0,0.0,1901
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Hippocampus,0.68,0.0,0.0,0.0,5221
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Entorhinal cortex,-1.76,1.0,0.0,0.0,6834
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Entorhinal cortex,0.12,0.0,0.0,0.0,10333
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Amygdala,-0.02,0.0,0.0,0.0,14001
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Amygdala,0.79,1.0,0.0,0.0,15249
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Precuneus,0.06,1.0,1.0,0.0,16674
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Precuneus,0.42,0.0,1.0,0.0,20646
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Superior frontal gyrus,0.33,0.0,0.0,0.0,22492
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Superior frontal gyrus,0.79,0.0,0.0,0.0,24110
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Superior temporal gyrus,-0.17,0.0,0.0,0.0,25122
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Superior temporal gyrus,1.1,1.0,1.0,0.0,27278
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Insula,-0.39,0.0,0.0,0.0,30002
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Insula,0.48,0.0,0.0,0.0,31574
+,sim0005,SIM05,CASE-01,ai_on,rating,Left Lateral ventricle,0.37,0.0,0.0,0.0,32285
+,sim0005,SIM05,CASE-01,ai_on,rating,Right Lateral ventricle,1.93,1.0,0.0,0.0,36008
+,sim0005,SIM05,CASE-01,ai_on,case_complete,,,,,,36808
+,sim0005,SIM05,CASE-02,ai_off,case_open,,,,,,0
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,1.0,1.0,1421
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,0.0,0.0,6571
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,8861
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,12421
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,15751
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Amygdala,-1.88,,0.0,0.0,18856
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,23124
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,25422
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,28981
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,31899
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,33392
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,35273
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Insula,0.15,,0.0,0.0,36780
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Insula,0.64,,1.0,0.0,37972
+,sim0005,SIM05,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,1.0,1.0,39271
+,sim0005,SIM05,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,42215
+,sim0005,SIM05,CASE-02,ai_off,case_complete,,,,,,43015
+,sim0005,SIM05,CASE-03,ai_on,case_open,,,,,,0
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Hippocampus,-0.83,0.0,0.0,0.0,1099
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Hippocampus,0.13,0.0,0.0,0.0,2933
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Entorhinal cortex,-0.38,0.0,0.0,0.0,4679
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Entorhinal cortex,0.56,0.0,0.0,0.0,6967
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Amygdala,0.41,0.0,0.0,0.0,8315
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Amygdala,-0.33,0.0,0.0,0.0,9862
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Precuneus,-1.08,0.0,0.0,0.0,10842
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Precuneus,-0.42,0.0,0.0,0.0,12432
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Superior frontal gyrus,0.43,0.0,0.0,0.0,15134
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Superior frontal gyrus,0.6,0.0,0.0,0.0,20823
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Superior temporal gyrus,-0.38,0.0,0.0,0.0,24099
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Superior temporal gyrus,-1.52,0.0,0.0,0.0,25356
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Insula,-1.19,1.0,1.0,0.0,26085
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Insula,0.36,0.0,0.0,0.0,30224
+,sim0005,SIM05,CASE-03,ai_on,rating,Left Lateral ventricle,-0.34,1.0,1.0,0.0,34002
+,sim0005,SIM05,CASE-03,ai_on,rating,Right Lateral ventricle,-0.32,0.0,0.0,0.0,35238
+,sim0005,SIM05,CASE-03,ai_on,case_complete,,,,,,36038
+,sim0005,SIM05,CASE-04,ai_off,case_open,,,,,,0
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Hippocampus,-3.02,,1.0,1.0,1266
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Hippocampus,-2.74,,1.0,1.0,2947
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Entorhinal cortex,-2.22,,1.0,1.0,5340
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Entorhinal cortex,-4.16,,1.0,1.0,9542
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Amygdala,-2.47,,1.0,1.0,13596
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Amygdala,-2.13,,0.0,1.0,15781
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Precuneus,0.2,,0.0,0.0,17302
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Precuneus,0.75,,0.0,0.0,18776
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Superior frontal gyrus,1.32,,0.0,0.0,23580
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Superior frontal gyrus,-0.58,,0.0,0.0,26316
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Superior temporal gyrus,-0.35,,0.0,0.0,27894
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Superior temporal gyrus,0.57,,0.0,0.0,32368
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Insula,-1.32,,1.0,0.0,35401
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Insula,0.28,,0.0,0.0,38715
+,sim0005,SIM05,CASE-04,ai_off,rating,Left Lateral ventricle,4.19,,1.0,1.0,42160
+,sim0005,SIM05,CASE-04,ai_off,rating,Right Lateral ventricle,1.48,,1.0,0.0,44956
+,sim0005,SIM05,CASE-04,ai_off,case_complete,,,,,,45756
+,sim0005,SIM05,CASE-05,ai_off,case_open,,,,,,0
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Hippocampus,-0.73,,0.0,0.0,1983
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Hippocampus,-0.55,,0.0,0.0,3239
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Entorhinal cortex,0.96,,0.0,0.0,4654
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Entorhinal cortex,-0.14,,0.0,0.0,6358
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Amygdala,-1.51,,0.0,0.0,9355
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Amygdala,-0.05,,0.0,0.0,11161
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Precuneus,0.12,,1.0,0.0,14531
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Precuneus,-0.45,,0.0,0.0,18045
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Superior frontal gyrus,-0.87,,0.0,0.0,22537
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Superior frontal gyrus,1.92,,0.0,0.0,27092
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Superior temporal gyrus,0.75,,1.0,0.0,27914
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Superior temporal gyrus,0.84,,0.0,0.0,32613
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Insula,-0.14,,0.0,0.0,35288
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Insula,-0.59,,0.0,0.0,37893
+,sim0005,SIM05,CASE-05,ai_off,rating,Left Lateral ventricle,-0.41,,0.0,0.0,39796
+,sim0005,SIM05,CASE-05,ai_off,rating,Right Lateral ventricle,-1.15,,0.0,0.0,42529
+,sim0005,SIM05,CASE-05,ai_off,case_complete,,,,,,43329
+,sim0005,SIM05,CASE-06,ai_on,case_open,,,,,,0
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Hippocampus,-1.63,1.0,0.0,0.0,2065
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Hippocampus,-1.99,0.0,0.0,0.0,4283
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Entorhinal cortex,-2.69,1.0,1.0,1.0,7686
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Entorhinal cortex,-0.79,1.0,1.0,0.0,9637
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Amygdala,-3.2,0.0,1.0,1.0,11265
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Amygdala,-2.21,1.0,1.0,1.0,13862
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Precuneus,-1.0,0.0,0.0,0.0,16101
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Precuneus,0.58,1.0,1.0,0.0,21886
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Superior frontal gyrus,-0.0,0.0,0.0,0.0,23753
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Superior frontal gyrus,0.3,0.0,0.0,0.0,27411
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Superior temporal gyrus,0.08,0.0,0.0,0.0,29118
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Superior temporal gyrus,-1.85,0.0,0.0,0.0,30823
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Insula,-0.76,0.0,0.0,0.0,34684
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Insula,-0.79,1.0,1.0,0.0,37435
+,sim0005,SIM05,CASE-06,ai_on,rating,Left Lateral ventricle,3.51,1.0,1.0,1.0,40100
+,sim0005,SIM05,CASE-06,ai_on,rating,Right Lateral ventricle,1.73,0.0,0.0,0.0,43301
+,sim0005,SIM05,CASE-06,ai_on,case_complete,,,,,,44101
+,sim0005,SIM05,CASE-07,ai_off,case_open,,,,,,0
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Hippocampus,0.48,,0.0,0.0,3395
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,5307
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,0.0,0.0,7060
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,9002
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,11656
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,13055
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Precuneus,-0.77,,0.0,0.0,17069
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Precuneus,-1.32,,1.0,0.0,19228
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,22357
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,0.0,0.0,23613
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,31875
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,0.0,0.0,35634
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,38022
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,39560
+,sim0005,SIM05,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,44119
+,sim0005,SIM05,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,0.0,0.0,46225
+,sim0005,SIM05,CASE-07,ai_off,case_complete,,,,,,47025
+,sim0005,SIM05,CASE-08,ai_on,case_open,,,,,,0
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,0.0,1.0,1666
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,4529
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,6445
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,7734
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,8998
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,11095
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,12487
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,1.0,0.0,15432
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,1.0,0.0,17342
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,19347
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,22044
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,23563
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,24734
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,27067
+,sim0005,SIM05,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,1.0,1.0,29084
+,sim0005,SIM05,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,30813
+,sim0005,SIM05,CASE-08,ai_on,case_complete,,,,,,31613
+,sim0006,SIM06,CASE-01,ai_off,case_open,,,,,,0
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Hippocampus,0.27,,0.0,0.0,2336
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Hippocampus,0.68,,0.0,0.0,4665
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Entorhinal cortex,-1.76,,0.0,0.0,6753
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Entorhinal cortex,0.12,,0.0,0.0,8913
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Amygdala,-0.02,,0.0,0.0,11520
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Amygdala,0.79,,0.0,0.0,14763
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Precuneus,0.06,,0.0,0.0,17043
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Precuneus,0.42,,0.0,0.0,18924
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Superior frontal gyrus,0.33,,0.0,0.0,22811
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Superior frontal gyrus,0.79,,0.0,0.0,25023
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Superior temporal gyrus,-0.17,,0.0,0.0,28872
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Superior temporal gyrus,1.1,,0.0,0.0,30650
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Insula,-0.39,,1.0,0.0,32251
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Insula,0.48,,0.0,0.0,34022
+,sim0006,SIM06,CASE-01,ai_off,rating,Left Lateral ventricle,0.37,,0.0,0.0,35758
+,sim0006,SIM06,CASE-01,ai_off,rating,Right Lateral ventricle,1.93,,0.0,0.0,38705
+,sim0006,SIM06,CASE-01,ai_off,case_complete,,,,,,39505
+,sim0006,SIM06,CASE-02,ai_off,case_open,,,,,,0
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,1.0,1.0,2638
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,0.0,0.0,5490
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,7925
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,0.0,1.0,10718
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,12506
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Amygdala,-1.88,,0.0,0.0,16446
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Precuneus,0.26,,1.0,0.0,19146
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,20934
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,26905
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,28927
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,31267
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,33964
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Insula,0.15,,0.0,0.0,36687
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Insula,0.64,,0.0,0.0,39480
+,sim0006,SIM06,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,1.0,1.0,40883
+,sim0006,SIM06,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,43315
+,sim0006,SIM06,CASE-02,ai_off,case_complete,,,,,,44115
+,sim0006,SIM06,CASE-03,ai_on,case_open,,,,,,0
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Hippocampus,-0.83,0.0,0.0,0.0,845
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Hippocampus,0.13,0.0,0.0,0.0,2524
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Entorhinal cortex,-0.38,0.0,0.0,0.0,4878
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Entorhinal cortex,0.56,0.0,0.0,0.0,7124
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Amygdala,0.41,0.0,0.0,0.0,8714
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Amygdala,-0.33,0.0,0.0,0.0,11921
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Precuneus,-1.08,0.0,0.0,0.0,14724
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Precuneus,-0.42,0.0,0.0,0.0,15837
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Superior frontal gyrus,0.43,0.0,0.0,0.0,17535
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Superior frontal gyrus,0.6,0.0,0.0,0.0,19616
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Superior temporal gyrus,-0.38,0.0,0.0,0.0,20749
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Superior temporal gyrus,-1.52,0.0,0.0,0.0,22009
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Insula,-1.19,1.0,0.0,0.0,23999
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Insula,0.36,0.0,0.0,0.0,25343
+,sim0006,SIM06,CASE-03,ai_on,rating,Left Lateral ventricle,-0.34,1.0,0.0,0.0,27737
+,sim0006,SIM06,CASE-03,ai_on,rating,Right Lateral ventricle,-0.32,0.0,0.0,0.0,29385
+,sim0006,SIM06,CASE-03,ai_on,case_complete,,,,,,30185
+,sim0006,SIM06,CASE-04,ai_on,case_open,,,,,,0
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,3023
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,5133
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,7055
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,0.0,1.0,9126
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,11856
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,14155
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,16074
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,18148
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,19682
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,22320
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,23701
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,1.0,0.0,25136
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,26465
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,27974
+,sim0006,SIM06,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,0.0,1.0,31090
+,sim0006,SIM06,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,32503
+,sim0006,SIM06,CASE-04,ai_on,case_complete,,,,,,33303
+,sim0006,SIM06,CASE-05,ai_on,case_open,,,,,,0
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Hippocampus,-0.73,0.0,0.0,0.0,1134
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Hippocampus,-0.55,0.0,0.0,0.0,6112
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Entorhinal cortex,0.96,1.0,0.0,0.0,8864
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Entorhinal cortex,-0.14,0.0,0.0,0.0,10093
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Amygdala,-1.51,0.0,0.0,0.0,11735
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Amygdala,-0.05,0.0,0.0,0.0,13850
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Precuneus,0.12,0.0,1.0,0.0,15328
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Precuneus,-0.45,0.0,0.0,0.0,18497
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Superior frontal gyrus,-0.87,0.0,0.0,0.0,20851
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Superior frontal gyrus,1.92,1.0,0.0,0.0,23870
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Superior temporal gyrus,0.75,0.0,0.0,0.0,26772
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Superior temporal gyrus,0.84,0.0,0.0,0.0,29786
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Insula,-0.14,0.0,0.0,0.0,30929
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Insula,-0.59,0.0,0.0,0.0,32660
+,sim0006,SIM06,CASE-05,ai_on,rating,Left Lateral ventricle,-0.41,0.0,0.0,0.0,35362
+,sim0006,SIM06,CASE-05,ai_on,rating,Right Lateral ventricle,-1.15,1.0,0.0,0.0,37985
+,sim0006,SIM06,CASE-05,ai_on,case_complete,,,,,,38785
+,sim0006,SIM06,CASE-06,ai_off,case_open,,,,,,0
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Hippocampus,-1.63,,0.0,0.0,5229
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Hippocampus,-1.99,,1.0,0.0,7988
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Entorhinal cortex,-2.69,,1.0,1.0,12385
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Entorhinal cortex,-0.79,,0.0,0.0,16127
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Amygdala,-3.2,,1.0,1.0,20043
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Amygdala,-2.21,,1.0,1.0,22206
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Precuneus,-1.0,,0.0,0.0,25044
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Precuneus,0.58,,0.0,0.0,31173
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Superior frontal gyrus,-0.0,,0.0,0.0,32977
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Superior frontal gyrus,0.3,,1.0,0.0,34535
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Superior temporal gyrus,0.08,,0.0,0.0,38585
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Superior temporal gyrus,-1.85,,0.0,0.0,40530
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Insula,-0.76,,0.0,0.0,43044
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Insula,-0.79,,0.0,0.0,46182
+,sim0006,SIM06,CASE-06,ai_off,rating,Left Lateral ventricle,3.51,,1.0,1.0,48284
+,sim0006,SIM06,CASE-06,ai_off,rating,Right Lateral ventricle,1.73,,0.0,0.0,50526
+,sim0006,SIM06,CASE-06,ai_off,case_complete,,,,,,51326
+,sim0006,SIM06,CASE-07,ai_on,case_open,,,,,,0
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Hippocampus,0.48,1.0,1.0,0.0,1224
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Hippocampus,-0.14,1.0,1.0,0.0,2766
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Entorhinal cortex,-0.2,0.0,0.0,0.0,5076
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Entorhinal cortex,0.16,0.0,0.0,0.0,8134
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Amygdala,0.08,0.0,0.0,0.0,9911
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Amygdala,2.27,1.0,1.0,1.0,12175
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Precuneus,-0.77,1.0,1.0,0.0,15401
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Precuneus,-1.32,0.0,0.0,0.0,17847
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Superior frontal gyrus,0.28,0.0,0.0,0.0,20036
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Superior frontal gyrus,-0.66,0.0,0.0,0.0,24041
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Superior temporal gyrus,-1.93,0.0,0.0,0.0,25958
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Superior temporal gyrus,-0.96,1.0,1.0,0.0,27770
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Insula,1.99,0.0,1.0,0.0,28970
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Insula,-0.79,0.0,0.0,0.0,33706
+,sim0006,SIM06,CASE-07,ai_on,rating,Left Lateral ventricle,-1.58,0.0,1.0,0.0,35046
+,sim0006,SIM06,CASE-07,ai_on,rating,Right Lateral ventricle,1.92,0.0,0.0,0.0,39157
+,sim0006,SIM06,CASE-07,ai_on,case_complete,,,,,,39957
+,sim0006,SIM06,CASE-08,ai_off,case_open,,,,,,0
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Hippocampus,-3.93,,1.0,1.0,2822
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Hippocampus,-3.69,,1.0,1.0,5302
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Entorhinal cortex,-0.68,,0.0,0.0,6289
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Entorhinal cortex,-1.33,,0.0,0.0,9392
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Amygdala,-2.08,,1.0,1.0,10855
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Amygdala,-2.28,,1.0,1.0,13636
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Precuneus,0.42,,0.0,0.0,18031
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Precuneus,0.14,,0.0,0.0,21490
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Superior frontal gyrus,0.05,,1.0,0.0,23928
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Superior frontal gyrus,-0.65,,0.0,0.0,26427
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Superior temporal gyrus,-0.09,,0.0,0.0,29054
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Superior temporal gyrus,1.42,,1.0,0.0,31292
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Insula,-0.69,,1.0,0.0,33040
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Insula,0.24,,0.0,0.0,35488
+,sim0006,SIM06,CASE-08,ai_off,rating,Left Lateral ventricle,2.93,,1.0,1.0,37873
+,sim0006,SIM06,CASE-08,ai_off,rating,Right Lateral ventricle,1.24,,0.0,0.0,43445
+,sim0006,SIM06,CASE-08,ai_off,case_complete,,,,,,44245
+,sim0007,SIM07,CASE-01,ai_off,case_open,,,,,,0
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Hippocampus,0.27,,0.0,0.0,6005
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Hippocampus,0.68,,1.0,0.0,8420
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Entorhinal cortex,-1.76,,1.0,0.0,11245
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Entorhinal cortex,0.12,,0.0,0.0,13726
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Amygdala,-0.02,,0.0,0.0,15483
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Amygdala,0.79,,0.0,0.0,17158
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Precuneus,0.06,,0.0,0.0,19348
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Precuneus,0.42,,0.0,0.0,22966
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Superior frontal gyrus,0.33,,0.0,0.0,24569
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Superior frontal gyrus,0.79,,1.0,0.0,26000
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Superior temporal gyrus,-0.17,,1.0,0.0,28400
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Superior temporal gyrus,1.1,,1.0,0.0,30301
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Insula,-0.39,,0.0,0.0,32156
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Insula,0.48,,0.0,0.0,36741
+,sim0007,SIM07,CASE-01,ai_off,rating,Left Lateral ventricle,0.37,,1.0,0.0,39127
+,sim0007,SIM07,CASE-01,ai_off,rating,Right Lateral ventricle,1.93,,1.0,0.0,42172
+,sim0007,SIM07,CASE-01,ai_off,case_complete,,,,,,42972
+,sim0007,SIM07,CASE-02,ai_off,case_open,,,,,,0
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,1.0,1.0,2358
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,0.0,0.0,5661
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,8005
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,10270
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,13443
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Amygdala,-1.88,,0.0,0.0,15793
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,19864
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,21693
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,1.0,0.0,26103
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,27662
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,29710
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,32241
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Insula,0.15,,0.0,0.0,33782
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Insula,0.64,,0.0,0.0,35684
+,sim0007,SIM07,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,1.0,1.0,38899
+,sim0007,SIM07,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,41084
+,sim0007,SIM07,CASE-02,ai_off,case_complete,,,,,,41884
+,sim0007,SIM07,CASE-03,ai_off,case_open,,,,,,0
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Hippocampus,-0.83,,0.0,0.0,1797
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Hippocampus,0.13,,1.0,0.0,5039
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Entorhinal cortex,-0.38,,0.0,0.0,7543
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Entorhinal cortex,0.56,,0.0,0.0,10572
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Amygdala,0.41,,0.0,0.0,14900
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Amygdala,-0.33,,0.0,0.0,17313
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Precuneus,-1.08,,0.0,0.0,20075
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Precuneus,-0.42,,0.0,0.0,27447
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Superior frontal gyrus,0.43,,0.0,0.0,28529
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Superior frontal gyrus,0.6,,0.0,0.0,31144
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Superior temporal gyrus,-0.38,,0.0,0.0,32911
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Superior temporal gyrus,-1.52,,0.0,0.0,35778
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Insula,-1.19,,1.0,0.0,37529
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Insula,0.36,,0.0,0.0,39544
+,sim0007,SIM07,CASE-03,ai_off,rating,Left Lateral ventricle,-0.34,,0.0,0.0,40984
+,sim0007,SIM07,CASE-03,ai_off,rating,Right Lateral ventricle,-0.32,,1.0,0.0,44228
+,sim0007,SIM07,CASE-03,ai_off,case_complete,,,,,,45028
+,sim0007,SIM07,CASE-04,ai_on,case_open,,,,,,0
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,1944
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,4145
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,7252
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,1.0,1.0,8568
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,10820
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,12674
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,13759
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,15022
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,16562
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,18690
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,20805
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,22124
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,23726
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,26547
+,sim0007,SIM07,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,1.0,1.0,28974
+,sim0007,SIM07,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,33176
+,sim0007,SIM07,CASE-04,ai_on,case_complete,,,,,,33976
+,sim0007,SIM07,CASE-05,ai_on,case_open,,,,,,0
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Hippocampus,-0.73,0.0,0.0,0.0,1152
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Hippocampus,-0.55,0.0,0.0,0.0,4726
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Entorhinal cortex,0.96,1.0,1.0,0.0,6458
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Entorhinal cortex,-0.14,0.0,0.0,0.0,8508
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Amygdala,-1.51,0.0,0.0,0.0,10524
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Amygdala,-0.05,0.0,0.0,0.0,11674
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Precuneus,0.12,0.0,0.0,0.0,15403
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Precuneus,-0.45,0.0,0.0,0.0,16662
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Superior frontal gyrus,-0.87,0.0,0.0,0.0,18039
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Superior frontal gyrus,1.92,1.0,1.0,0.0,20326
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Superior temporal gyrus,0.75,0.0,0.0,0.0,22811
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Superior temporal gyrus,0.84,0.0,0.0,0.0,25571
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Insula,-0.14,0.0,0.0,0.0,26398
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Insula,-0.59,0.0,0.0,0.0,30701
+,sim0007,SIM07,CASE-05,ai_on,rating,Left Lateral ventricle,-0.41,0.0,0.0,0.0,33237
+,sim0007,SIM07,CASE-05,ai_on,rating,Right Lateral ventricle,-1.15,1.0,1.0,0.0,36268
+,sim0007,SIM07,CASE-05,ai_on,case_complete,,,,,,37068
+,sim0007,SIM07,CASE-06,ai_on,case_open,,,,,,0
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Hippocampus,-1.63,1.0,1.0,0.0,2063
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Hippocampus,-1.99,0.0,0.0,0.0,3375
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Entorhinal cortex,-2.69,1.0,1.0,1.0,4524
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Entorhinal cortex,-0.79,1.0,1.0,0.0,6451
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Amygdala,-3.2,0.0,0.0,1.0,8867
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Amygdala,-2.21,1.0,1.0,1.0,11842
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Precuneus,-1.0,0.0,0.0,0.0,13442
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Precuneus,0.58,1.0,1.0,0.0,16156
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Superior frontal gyrus,-0.0,0.0,0.0,0.0,19339
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Superior frontal gyrus,0.3,0.0,0.0,0.0,21371
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Superior temporal gyrus,0.08,0.0,0.0,0.0,26784
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Superior temporal gyrus,-1.85,0.0,0.0,0.0,28593
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Insula,-0.76,0.0,0.0,0.0,31940
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Insula,-0.79,1.0,0.0,0.0,33318
+,sim0007,SIM07,CASE-06,ai_on,rating,Left Lateral ventricle,3.51,1.0,1.0,1.0,35978
+,sim0007,SIM07,CASE-06,ai_on,rating,Right Lateral ventricle,1.73,0.0,0.0,0.0,37640
+,sim0007,SIM07,CASE-06,ai_on,case_complete,,,,,,38440
+,sim0007,SIM07,CASE-07,ai_off,case_open,,,,,,0
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Hippocampus,0.48,,1.0,0.0,1491
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,4682
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,0.0,0.0,7695
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,10733
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,13865
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,15035
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Precuneus,-0.77,,0.0,0.0,17287
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,18983
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,21129
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,1.0,0.0,24175
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,28608
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,0.0,0.0,30872
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,32696
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Insula,-0.79,,1.0,0.0,34707
+,sim0007,SIM07,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,37036
+,sim0007,SIM07,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,1.0,0.0,39284
+,sim0007,SIM07,CASE-07,ai_off,case_complete,,,,,,40084
+,sim0007,SIM07,CASE-08,ai_on,case_open,,,,,,0
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,1.0,1.0,2132
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,3897
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,4915
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,6966
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,10470
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,11918
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,13189
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,15604
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,0.0,0.0,18530
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,20321
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,24650
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,26934
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,29775
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,32414
+,sim0007,SIM07,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,0.0,1.0,37389
+,sim0007,SIM07,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,38527
+,sim0007,SIM07,CASE-08,ai_on,case_complete,,,,,,39327
+,sim0008,SIM08,CASE-01,ai_on,case_open,,,,,,0
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Hippocampus,0.27,0.0,0.0,0.0,1581
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Hippocampus,0.68,0.0,0.0,0.0,3480
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Entorhinal cortex,-1.76,1.0,1.0,0.0,5553
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Entorhinal cortex,0.12,0.0,0.0,0.0,9807
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Amygdala,-0.02,0.0,0.0,0.0,11254
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Amygdala,0.79,1.0,1.0,0.0,13538
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Precuneus,0.06,1.0,1.0,0.0,16600
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Precuneus,0.42,0.0,0.0,0.0,20125
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Superior frontal gyrus,0.33,0.0,0.0,0.0,22824
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Superior frontal gyrus,0.79,0.0,0.0,0.0,26032
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Superior temporal gyrus,-0.17,0.0,0.0,0.0,28116
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Superior temporal gyrus,1.1,1.0,1.0,0.0,29172
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Insula,-0.39,0.0,0.0,0.0,33556
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Insula,0.48,0.0,0.0,0.0,35183
+,sim0008,SIM08,CASE-01,ai_on,rating,Left Lateral ventricle,0.37,0.0,0.0,0.0,36481
+,sim0008,SIM08,CASE-01,ai_on,rating,Right Lateral ventricle,1.93,1.0,1.0,0.0,38240
+,sim0008,SIM08,CASE-01,ai_on,case_complete,,,,,,39040
+,sim0008,SIM08,CASE-02,ai_off,case_open,,,,,,0
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,0.0,1.0,2250
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,0.0,0.0,4745
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,7376
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,9290
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Amygdala,-2.1,,0.0,1.0,12664
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Amygdala,-1.88,,0.0,0.0,16846
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,18982
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,21660
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,23696
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,26380
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,30644
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,32631
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Insula,0.15,,0.0,0.0,34494
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Insula,0.64,,1.0,0.0,36785
+,sim0008,SIM08,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,1.0,1.0,38939
+,sim0008,SIM08,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,41638
+,sim0008,SIM08,CASE-02,ai_off,case_complete,,,,,,42438
+,sim0008,SIM08,CASE-03,ai_off,case_open,,,,,,0
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Hippocampus,-0.83,,0.0,0.0,2536
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Hippocampus,0.13,,0.0,0.0,3114
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Entorhinal cortex,-0.38,,0.0,0.0,4285
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Entorhinal cortex,0.56,,0.0,0.0,8215
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Amygdala,0.41,,0.0,0.0,10354
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Amygdala,-0.33,,1.0,0.0,12725
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Precuneus,-1.08,,0.0,0.0,14704
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Precuneus,-0.42,,0.0,0.0,18725
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Superior frontal gyrus,0.43,,0.0,0.0,22390
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Superior frontal gyrus,0.6,,0.0,0.0,24963
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Superior temporal gyrus,-0.38,,0.0,0.0,27972
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Superior temporal gyrus,-1.52,,0.0,0.0,30723
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Insula,-1.19,,0.0,0.0,32553
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Insula,0.36,,1.0,0.0,34788
+,sim0008,SIM08,CASE-03,ai_off,rating,Left Lateral ventricle,-0.34,,0.0,0.0,39280
+,sim0008,SIM08,CASE-03,ai_off,rating,Right Lateral ventricle,-0.32,,1.0,0.0,42375
+,sim0008,SIM08,CASE-03,ai_off,case_complete,,,,,,43175
+,sim0008,SIM08,CASE-04,ai_on,case_open,,,,,,0
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,5127
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,6994
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,9348
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,1.0,1.0,10599
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,11717
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,17918
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,19329
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,20906
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,23460
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,0.0,0.0,26065
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,27731
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,29779
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,31017
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,33083
+,sim0008,SIM08,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,0.0,1.0,34790
+,sim0008,SIM08,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,36569
+,sim0008,SIM08,CASE-04,ai_on,case_complete,,,,,,37369
+,sim0008,SIM08,CASE-05,ai_off,case_open,,,,,,0
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Hippocampus,-0.73,,0.0,0.0,3462
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Hippocampus,-0.55,,0.0,0.0,6275
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Entorhinal cortex,0.96,,0.0,0.0,7655
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Entorhinal cortex,-0.14,,0.0,0.0,9292
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Amygdala,-1.51,,0.0,0.0,12250
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Amygdala,-0.05,,0.0,0.0,13963
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Precuneus,0.12,,0.0,0.0,15764
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Precuneus,-0.45,,0.0,0.0,19125
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Superior frontal gyrus,-0.87,,0.0,0.0,22042
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Superior frontal gyrus,1.92,,1.0,0.0,24867
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Superior temporal gyrus,0.75,,0.0,0.0,27340
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Superior temporal gyrus,0.84,,0.0,0.0,29886
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Insula,-0.14,,0.0,0.0,31505
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Insula,-0.59,,0.0,0.0,34374
+,sim0008,SIM08,CASE-05,ai_off,rating,Left Lateral ventricle,-0.41,,1.0,0.0,36212
+,sim0008,SIM08,CASE-05,ai_off,rating,Right Lateral ventricle,-1.15,,0.0,0.0,42958
+,sim0008,SIM08,CASE-05,ai_off,case_complete,,,,,,43758
+,sim0008,SIM08,CASE-06,ai_off,case_open,,,,,,0
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Hippocampus,-1.63,,0.0,0.0,2860
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Hippocampus,-1.99,,0.0,0.0,3756
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Entorhinal cortex,-2.69,,1.0,1.0,5641
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Entorhinal cortex,-0.79,,0.0,0.0,7899
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Amygdala,-3.2,,1.0,1.0,10190
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Amygdala,-2.21,,1.0,1.0,12702
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Precuneus,-1.0,,1.0,0.0,15150
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Precuneus,0.58,,1.0,0.0,17435
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Superior frontal gyrus,-0.0,,0.0,0.0,22930
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Superior frontal gyrus,0.3,,0.0,0.0,25718
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Superior temporal gyrus,0.08,,0.0,0.0,29476
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Superior temporal gyrus,-1.85,,0.0,0.0,33331
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Insula,-0.76,,0.0,0.0,36103
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Insula,-0.79,,0.0,0.0,38924
+,sim0008,SIM08,CASE-06,ai_off,rating,Left Lateral ventricle,3.51,,1.0,1.0,40752
+,sim0008,SIM08,CASE-06,ai_off,rating,Right Lateral ventricle,1.73,,0.0,0.0,42663
+,sim0008,SIM08,CASE-06,ai_off,case_complete,,,,,,43463
+,sim0008,SIM08,CASE-07,ai_on,case_open,,,,,,0
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Hippocampus,0.48,1.0,0.0,0.0,2055
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Hippocampus,-0.14,1.0,1.0,0.0,4689
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Entorhinal cortex,-0.2,0.0,0.0,0.0,8586
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Entorhinal cortex,0.16,0.0,0.0,0.0,11614
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Amygdala,0.08,0.0,0.0,0.0,14520
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Amygdala,2.27,1.0,1.0,1.0,15957
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Precuneus,-0.77,1.0,1.0,0.0,17076
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Precuneus,-1.32,0.0,0.0,0.0,19020
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Superior frontal gyrus,0.28,0.0,0.0,0.0,20482
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Superior frontal gyrus,-0.66,0.0,0.0,0.0,22064
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Superior temporal gyrus,-1.93,0.0,0.0,0.0,24077
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Superior temporal gyrus,-0.96,1.0,1.0,0.0,25733
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Insula,1.99,0.0,0.0,0.0,28867
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Insula,-0.79,0.0,0.0,0.0,30900
+,sim0008,SIM08,CASE-07,ai_on,rating,Left Lateral ventricle,-1.58,0.0,0.0,0.0,33820
+,sim0008,SIM08,CASE-07,ai_on,rating,Right Lateral ventricle,1.92,0.0,0.0,0.0,35917
+,sim0008,SIM08,CASE-07,ai_on,case_complete,,,,,,36717
+,sim0008,SIM08,CASE-08,ai_on,case_open,,,,,,0
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,0.0,1.0,872
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,2124
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,6757
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,7825
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,12130
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,14184
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,15033
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,15965
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,1.0,0.0,21083
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,24195
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,26852
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,31360
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,33650
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,35288
+,sim0008,SIM08,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,0.0,1.0,38421
+,sim0008,SIM08,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,40965
+,sim0008,SIM08,CASE-08,ai_on,case_complete,,,,,,41765
+,sim0009,SIM09,CASE-01,ai_on,case_open,,,,,,0
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Hippocampus,0.27,0.0,0.0,0.0,2399
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Hippocampus,0.68,0.0,0.0,0.0,4494
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Entorhinal cortex,-1.76,1.0,1.0,0.0,6401
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Entorhinal cortex,0.12,0.0,0.0,0.0,9070
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Amygdala,-0.02,0.0,0.0,0.0,10845
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Amygdala,0.79,1.0,0.0,0.0,12325
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Precuneus,0.06,1.0,1.0,0.0,14129
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Precuneus,0.42,0.0,0.0,0.0,15932
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Superior frontal gyrus,0.33,0.0,0.0,0.0,18261
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Superior frontal gyrus,0.79,0.0,0.0,0.0,23516
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Superior temporal gyrus,-0.17,0.0,0.0,0.0,26887
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Superior temporal gyrus,1.1,1.0,1.0,0.0,27492
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Insula,-0.39,0.0,0.0,0.0,30245
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Insula,0.48,0.0,0.0,0.0,32208
+,sim0009,SIM09,CASE-01,ai_on,rating,Left Lateral ventricle,0.37,0.0,0.0,0.0,33944
+,sim0009,SIM09,CASE-01,ai_on,rating,Right Lateral ventricle,1.93,1.0,1.0,0.0,35118
+,sim0009,SIM09,CASE-01,ai_on,case_complete,,,,,,35918
+,sim0009,SIM09,CASE-02,ai_on,case_open,,,,,,0
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Hippocampus,-2.78,1.0,1.0,1.0,1441
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Hippocampus,-0.97,0.0,0.0,0.0,2509
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Entorhinal cortex,-3.48,1.0,1.0,1.0,3600
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Entorhinal cortex,-2.48,0.0,0.0,1.0,6182
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Amygdala,-2.1,1.0,1.0,1.0,8298
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Amygdala,-1.88,0.0,0.0,0.0,9554
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Precuneus,0.26,0.0,0.0,0.0,11873
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Precuneus,-1.31,0.0,0.0,0.0,13963
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Superior frontal gyrus,-0.42,0.0,1.0,0.0,16058
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Superior frontal gyrus,-0.25,0.0,0.0,0.0,18238
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Superior temporal gyrus,-0.78,0.0,0.0,0.0,20581
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Superior temporal gyrus,-1.51,0.0,0.0,0.0,22958
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Insula,0.15,0.0,0.0,0.0,24195
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Insula,0.64,0.0,0.0,0.0,26594
+,sim0009,SIM09,CASE-02,ai_on,rating,Left Lateral ventricle,2.01,1.0,1.0,1.0,28004
+,sim0009,SIM09,CASE-02,ai_on,rating,Right Lateral ventricle,2.65,1.0,1.0,1.0,29108
+,sim0009,SIM09,CASE-02,ai_on,case_complete,,,,,,29908
+,sim0009,SIM09,CASE-03,ai_off,case_open,,,,,,0
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Hippocampus,-0.83,,0.0,0.0,3328
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Hippocampus,0.13,,0.0,0.0,8489
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Entorhinal cortex,-0.38,,0.0,0.0,12558
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Entorhinal cortex,0.56,,0.0,0.0,13990
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Amygdala,0.41,,0.0,0.0,18500
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Amygdala,-0.33,,0.0,0.0,21236
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Precuneus,-1.08,,1.0,0.0,23135
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Precuneus,-0.42,,0.0,0.0,26389
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Superior frontal gyrus,0.43,,0.0,0.0,29295
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Superior frontal gyrus,0.6,,0.0,0.0,32354
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Superior temporal gyrus,-0.38,,0.0,0.0,33920
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Superior temporal gyrus,-1.52,,0.0,0.0,39917
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Insula,-1.19,,0.0,0.0,42291
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Insula,0.36,,1.0,0.0,45958
+,sim0009,SIM09,CASE-03,ai_off,rating,Left Lateral ventricle,-0.34,,0.0,0.0,47267
+,sim0009,SIM09,CASE-03,ai_off,rating,Right Lateral ventricle,-0.32,,0.0,0.0,48824
+,sim0009,SIM09,CASE-03,ai_off,case_complete,,,,,,49624
+,sim0009,SIM09,CASE-04,ai_off,case_open,,,,,,0
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Hippocampus,-3.02,,1.0,1.0,3113
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Hippocampus,-2.74,,1.0,1.0,6569
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Entorhinal cortex,-2.22,,0.0,1.0,8502
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Entorhinal cortex,-4.16,,0.0,1.0,11840
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Amygdala,-2.47,,1.0,1.0,13773
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Amygdala,-2.13,,1.0,1.0,15793
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Precuneus,0.2,,0.0,0.0,17713
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Precuneus,0.75,,1.0,0.0,19389
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Superior frontal gyrus,1.32,,0.0,0.0,20839
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Superior frontal gyrus,-0.58,,1.0,0.0,23399
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Superior temporal gyrus,-0.35,,0.0,0.0,27196
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Superior temporal gyrus,0.57,,0.0,0.0,30464
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Insula,-1.32,,0.0,0.0,36695
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Insula,0.28,,1.0,0.0,38989
+,sim0009,SIM09,CASE-04,ai_off,rating,Left Lateral ventricle,4.19,,1.0,1.0,41899
+,sim0009,SIM09,CASE-04,ai_off,rating,Right Lateral ventricle,1.48,,0.0,0.0,43730
+,sim0009,SIM09,CASE-04,ai_off,case_complete,,,,,,44530
+,sim0009,SIM09,CASE-05,ai_off,case_open,,,,,,0
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Hippocampus,-0.73,,0.0,0.0,2577
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Hippocampus,-0.55,,0.0,0.0,6233
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Entorhinal cortex,0.96,,0.0,0.0,9035
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Entorhinal cortex,-0.14,,0.0,0.0,10816
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Amygdala,-1.51,,0.0,0.0,12497
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Amygdala,-0.05,,0.0,0.0,14475
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Precuneus,0.12,,0.0,0.0,16089
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Precuneus,-0.45,,1.0,0.0,17637
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Superior frontal gyrus,-0.87,,1.0,0.0,20302
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Superior frontal gyrus,1.92,,0.0,0.0,21803
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Superior temporal gyrus,0.75,,0.0,0.0,23620
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Superior temporal gyrus,0.84,,0.0,0.0,26531
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Insula,-0.14,,0.0,0.0,27748
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Insula,-0.59,,0.0,0.0,30878
+,sim0009,SIM09,CASE-05,ai_off,rating,Left Lateral ventricle,-0.41,,0.0,0.0,32538
+,sim0009,SIM09,CASE-05,ai_off,rating,Right Lateral ventricle,-1.15,,0.0,0.0,33988
+,sim0009,SIM09,CASE-05,ai_off,case_complete,,,,,,34788
+,sim0009,SIM09,CASE-06,ai_on,case_open,,,,,,0
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Hippocampus,-1.63,1.0,1.0,0.0,1745
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Hippocampus,-1.99,0.0,1.0,0.0,5484
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Entorhinal cortex,-2.69,1.0,1.0,1.0,8917
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Entorhinal cortex,-0.79,1.0,0.0,0.0,10485
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Amygdala,-3.2,0.0,0.0,1.0,12135
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Amygdala,-2.21,1.0,1.0,1.0,14629
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Precuneus,-1.0,0.0,0.0,0.0,15966
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Precuneus,0.58,1.0,1.0,0.0,17331
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Superior frontal gyrus,-0.0,0.0,0.0,0.0,18548
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Superior frontal gyrus,0.3,0.0,0.0,0.0,20642
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Superior temporal gyrus,0.08,0.0,0.0,0.0,22474
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Superior temporal gyrus,-1.85,0.0,0.0,0.0,26721
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Insula,-0.76,0.0,0.0,0.0,30191
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Insula,-0.79,1.0,1.0,0.0,34670
+,sim0009,SIM09,CASE-06,ai_on,rating,Left Lateral ventricle,3.51,1.0,1.0,1.0,36494
+,sim0009,SIM09,CASE-06,ai_on,rating,Right Lateral ventricle,1.73,0.0,0.0,0.0,38357
+,sim0009,SIM09,CASE-06,ai_on,case_complete,,,,,,39157
+,sim0009,SIM09,CASE-07,ai_off,case_open,,,,,,0
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Hippocampus,0.48,,0.0,0.0,1647
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,1.0,0.0,4960
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,1.0,0.0,6588
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,9619
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,11137
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,13374
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Precuneus,-0.77,,0.0,0.0,15252
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,17325
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,20863
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,0.0,0.0,24573
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,27015
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,0.0,0.0,28938
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,32420
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,33997
+,sim0009,SIM09,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,35397
+,sim0009,SIM09,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,0.0,0.0,37763
+,sim0009,SIM09,CASE-07,ai_off,case_complete,,,,,,38563
+,sim0009,SIM09,CASE-08,ai_on,case_open,,,,,,0
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,1.0,1.0,1886
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,3247
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,9091
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,10433
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,11926
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,13612
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,14862
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,18010
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,0.0,0.0,20227
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,21420
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,23592
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,25316
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,27610
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,30109
+,sim0009,SIM09,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,0.0,1.0,34082
+,sim0009,SIM09,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,37693
+,sim0009,SIM09,CASE-08,ai_on,case_complete,,,,,,38493
+,sim0010,SIM10,CASE-01,ai_off,case_open,,,,,,0
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Hippocampus,0.27,,0.0,0.0,1935
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Hippocampus,0.68,,0.0,0.0,6008
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Entorhinal cortex,-1.76,,0.0,0.0,9291
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Entorhinal cortex,0.12,,0.0,0.0,10981
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Amygdala,-0.02,,0.0,0.0,13762
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Amygdala,0.79,,0.0,0.0,18840
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Precuneus,0.06,,0.0,0.0,22397
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Precuneus,0.42,,0.0,0.0,25723
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Superior frontal gyrus,0.33,,0.0,0.0,27800
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Superior frontal gyrus,0.79,,0.0,0.0,30239
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Superior temporal gyrus,-0.17,,0.0,0.0,33174
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Superior temporal gyrus,1.1,,0.0,0.0,35033
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Insula,-0.39,,0.0,0.0,36301
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Insula,0.48,,0.0,0.0,40953
+,sim0010,SIM10,CASE-01,ai_off,rating,Left Lateral ventricle,0.37,,0.0,0.0,42848
+,sim0010,SIM10,CASE-01,ai_off,rating,Right Lateral ventricle,1.93,,1.0,0.0,44140
+,sim0010,SIM10,CASE-01,ai_off,case_complete,,,,,,44940
+,sim0010,SIM10,CASE-02,ai_off,case_open,,,,,,0
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,0.0,1.0,888
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,0.0,0.0,5549
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,7837
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,9583
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,11180
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Amygdala,-1.88,,1.0,0.0,14904
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,17065
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,18527
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,21392
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,23845
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,25767
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,27649
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Insula,0.15,,0.0,0.0,29535
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Insula,0.64,,0.0,0.0,31992
+,sim0010,SIM10,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,1.0,1.0,34005
+,sim0010,SIM10,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,35582
+,sim0010,SIM10,CASE-02,ai_off,case_complete,,,,,,36382
+,sim0010,SIM10,CASE-03,ai_on,case_open,,,,,,0
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Hippocampus,-0.83,0.0,0.0,0.0,2910
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Hippocampus,0.13,0.0,0.0,0.0,5120
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Entorhinal cortex,-0.38,0.0,0.0,0.0,7098
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Entorhinal cortex,0.56,0.0,0.0,0.0,8530
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Amygdala,0.41,0.0,0.0,0.0,10792
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Amygdala,-0.33,0.0,0.0,0.0,12505
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Precuneus,-1.08,0.0,0.0,0.0,13417
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Precuneus,-0.42,0.0,0.0,0.0,15010
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Superior frontal gyrus,0.43,0.0,0.0,0.0,16956
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Superior frontal gyrus,0.6,0.0,0.0,0.0,18887
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Superior temporal gyrus,-0.38,0.0,0.0,0.0,21203
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Superior temporal gyrus,-1.52,0.0,0.0,0.0,23673
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Insula,-1.19,1.0,1.0,0.0,25525
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Insula,0.36,0.0,0.0,0.0,26713
+,sim0010,SIM10,CASE-03,ai_on,rating,Left Lateral ventricle,-0.34,1.0,1.0,0.0,29651
+,sim0010,SIM10,CASE-03,ai_on,rating,Right Lateral ventricle,-0.32,0.0,0.0,0.0,30902
+,sim0010,SIM10,CASE-03,ai_on,case_complete,,,,,,31702
+,sim0010,SIM10,CASE-04,ai_on,case_open,,,,,,0
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,1135
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,2091
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,4321
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,1.0,1.0,6562
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,8335
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,9942
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,11060
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,12371
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,14911
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,17892
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,19460
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,22027
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,24093
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,25159
+,sim0010,SIM10,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,0.0,1.0,26931
+,sim0010,SIM10,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,28599
+,sim0010,SIM10,CASE-04,ai_on,case_complete,,,,,,29399
+,sim0010,SIM10,CASE-05,ai_off,case_open,,,,,,0
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Hippocampus,-0.73,,0.0,0.0,3560
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Hippocampus,-0.55,,0.0,0.0,6084
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Entorhinal cortex,0.96,,0.0,0.0,9427
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Entorhinal cortex,-0.14,,0.0,0.0,10981
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Amygdala,-1.51,,0.0,0.0,13302
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Amygdala,-0.05,,0.0,0.0,15966
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Precuneus,0.12,,0.0,0.0,18078
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Precuneus,-0.45,,0.0,0.0,19990
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Superior frontal gyrus,-0.87,,0.0,0.0,22353
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Superior frontal gyrus,1.92,,0.0,0.0,23917
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Superior temporal gyrus,0.75,,0.0,0.0,26285
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Superior temporal gyrus,0.84,,0.0,0.0,30169
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Insula,-0.14,,0.0,0.0,33233
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Insula,-0.59,,0.0,0.0,35997
+,sim0010,SIM10,CASE-05,ai_off,rating,Left Lateral ventricle,-0.41,,1.0,0.0,37983
+,sim0010,SIM10,CASE-05,ai_off,rating,Right Lateral ventricle,-1.15,,0.0,0.0,43621
+,sim0010,SIM10,CASE-05,ai_off,case_complete,,,,,,44421
+,sim0010,SIM10,CASE-06,ai_on,case_open,,,,,,0
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Hippocampus,-1.63,1.0,1.0,0.0,2053
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Hippocampus,-1.99,0.0,0.0,0.0,3210
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Entorhinal cortex,-2.69,1.0,1.0,1.0,7803
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Entorhinal cortex,-0.79,1.0,1.0,0.0,10223
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Amygdala,-3.2,0.0,0.0,1.0,12604
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Amygdala,-2.21,1.0,1.0,1.0,16038
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Precuneus,-1.0,0.0,0.0,0.0,17589
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Precuneus,0.58,1.0,1.0,0.0,19310
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Superior frontal gyrus,-0.0,0.0,0.0,0.0,21679
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Superior frontal gyrus,0.3,0.0,0.0,0.0,26266
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Superior temporal gyrus,0.08,0.0,0.0,0.0,29251
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Superior temporal gyrus,-1.85,0.0,0.0,0.0,29897
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Insula,-0.76,0.0,0.0,0.0,32320
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Insula,-0.79,1.0,0.0,0.0,33471
+,sim0010,SIM10,CASE-06,ai_on,rating,Left Lateral ventricle,3.51,1.0,1.0,1.0,36143
+,sim0010,SIM10,CASE-06,ai_on,rating,Right Lateral ventricle,1.73,0.0,0.0,0.0,37886
+,sim0010,SIM10,CASE-06,ai_on,case_complete,,,,,,38686
+,sim0010,SIM10,CASE-07,ai_off,case_open,,,,,,0
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Hippocampus,0.48,,1.0,0.0,1583
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,4884
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,0.0,0.0,8627
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,11105
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,12542
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,15863
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Precuneus,-0.77,,0.0,0.0,17964
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,20489
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,22379
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,0.0,0.0,25119
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,26604
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,0.0,0.0,28843
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,32177
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,34468
+,sim0010,SIM10,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,36681
+,sim0010,SIM10,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,0.0,0.0,40889
+,sim0010,SIM10,CASE-07,ai_off,case_complete,,,,,,41689
+,sim0010,SIM10,CASE-08,ai_on,case_open,,,,,,0
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,1.0,1.0,5385
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,8233
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,1.0,0.0,9601
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,11527
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,13802
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,15610
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,17659
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,18796
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,0.0,0.0,21188
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,24014
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,25582
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,26930
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,28580
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,30424
+,sim0010,SIM10,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,1.0,1.0,32788
+,sim0010,SIM10,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,35338
+,sim0010,SIM10,CASE-08,ai_on,case_complete,,,,,,36138
+,sim0011,SIM11,CASE-01,ai_off,case_open,,,,,,0
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Hippocampus,0.27,,1.0,0.0,1779
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Hippocampus,0.68,,0.0,0.0,4249
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Entorhinal cortex,-1.76,,0.0,0.0,7604
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Entorhinal cortex,0.12,,0.0,0.0,10345
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Amygdala,-0.02,,0.0,0.0,13592
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Amygdala,0.79,,0.0,0.0,15474
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Precuneus,0.06,,0.0,0.0,22606
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Precuneus,0.42,,0.0,0.0,24864
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Superior frontal gyrus,0.33,,1.0,0.0,26264
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Superior frontal gyrus,0.79,,0.0,0.0,28826
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Superior temporal gyrus,-0.17,,0.0,0.0,34055
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Superior temporal gyrus,1.1,,0.0,0.0,35807
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Insula,-0.39,,1.0,0.0,39016
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Insula,0.48,,0.0,0.0,42045
+,sim0011,SIM11,CASE-01,ai_off,rating,Left Lateral ventricle,0.37,,0.0,0.0,46769
+,sim0011,SIM11,CASE-01,ai_off,rating,Right Lateral ventricle,1.93,,0.0,0.0,49642
+,sim0011,SIM11,CASE-01,ai_off,case_complete,,,,,,50442
+,sim0011,SIM11,CASE-02,ai_on,case_open,,,,,,0
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Hippocampus,-2.78,1.0,0.0,1.0,2866
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Hippocampus,-0.97,0.0,0.0,0.0,6907
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Entorhinal cortex,-3.48,1.0,1.0,1.0,8328
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Entorhinal cortex,-2.48,0.0,0.0,1.0,10418
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Amygdala,-2.1,1.0,1.0,1.0,12435
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Amygdala,-1.88,0.0,0.0,0.0,13802
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Precuneus,0.26,0.0,0.0,0.0,15027
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Precuneus,-1.31,0.0,0.0,0.0,17254
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Superior frontal gyrus,-0.42,0.0,0.0,0.0,19431
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Superior frontal gyrus,-0.25,0.0,0.0,0.0,20829
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Superior temporal gyrus,-0.78,0.0,0.0,0.0,22921
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Superior temporal gyrus,-1.51,0.0,0.0,0.0,25327
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Insula,0.15,0.0,0.0,0.0,26878
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Insula,0.64,0.0,0.0,0.0,28544
+,sim0011,SIM11,CASE-02,ai_on,rating,Left Lateral ventricle,2.01,1.0,1.0,1.0,32207
+,sim0011,SIM11,CASE-02,ai_on,rating,Right Lateral ventricle,2.65,1.0,1.0,1.0,34957
+,sim0011,SIM11,CASE-02,ai_on,case_complete,,,,,,35757
+,sim0011,SIM11,CASE-03,ai_off,case_open,,,,,,0
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Hippocampus,-0.83,,0.0,0.0,1399
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Hippocampus,0.13,,0.0,0.0,3847
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Entorhinal cortex,-0.38,,0.0,0.0,5969
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Entorhinal cortex,0.56,,0.0,0.0,8079
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Amygdala,0.41,,0.0,0.0,12195
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Amygdala,-0.33,,0.0,0.0,15057
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Precuneus,-1.08,,0.0,0.0,17024
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Precuneus,-0.42,,0.0,0.0,19542
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Superior frontal gyrus,0.43,,0.0,0.0,20989
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Superior frontal gyrus,0.6,,0.0,0.0,22935
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Superior temporal gyrus,-0.38,,1.0,0.0,25361
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Superior temporal gyrus,-1.52,,0.0,0.0,27290
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Insula,-1.19,,0.0,0.0,28893
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Insula,0.36,,0.0,0.0,30553
+,sim0011,SIM11,CASE-03,ai_off,rating,Left Lateral ventricle,-0.34,,0.0,0.0,34824
+,sim0011,SIM11,CASE-03,ai_off,rating,Right Lateral ventricle,-0.32,,1.0,0.0,36477
+,sim0011,SIM11,CASE-03,ai_off,case_complete,,,,,,37277
+,sim0011,SIM11,CASE-04,ai_on,case_open,,,,,,0
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,1520
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,3953
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,5422
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,1.0,1.0,7500
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,11243
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,13068
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,1.0,0.0,15542
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,17528
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,20121
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,21866
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,23767
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,25635
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,27779
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,29214
+,sim0011,SIM11,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,0.0,1.0,30717
+,sim0011,SIM11,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,1.0,0.0,33185
+,sim0011,SIM11,CASE-04,ai_on,case_complete,,,,,,33985
+,sim0011,SIM11,CASE-05,ai_off,case_open,,,,,,0
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Hippocampus,-0.73,,0.0,0.0,2532
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Hippocampus,-0.55,,1.0,0.0,6363
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Entorhinal cortex,0.96,,0.0,0.0,8327
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Entorhinal cortex,-0.14,,0.0,0.0,9953
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Amygdala,-1.51,,0.0,0.0,13462
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Amygdala,-0.05,,0.0,0.0,15862
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Precuneus,0.12,,0.0,0.0,22395
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Precuneus,-0.45,,1.0,0.0,24848
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Superior frontal gyrus,-0.87,,1.0,0.0,27430
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Superior frontal gyrus,1.92,,0.0,0.0,30374
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Superior temporal gyrus,0.75,,0.0,0.0,33362
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Superior temporal gyrus,0.84,,0.0,0.0,37111
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Insula,-0.14,,0.0,0.0,39942
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Insula,-0.59,,0.0,0.0,42311
+,sim0011,SIM11,CASE-05,ai_off,rating,Left Lateral ventricle,-0.41,,0.0,0.0,44440
+,sim0011,SIM11,CASE-05,ai_off,rating,Right Lateral ventricle,-1.15,,0.0,0.0,46237
+,sim0011,SIM11,CASE-05,ai_off,case_complete,,,,,,47037
+,sim0011,SIM11,CASE-06,ai_on,case_open,,,,,,0
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Hippocampus,-1.63,1.0,1.0,0.0,4730
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Hippocampus,-1.99,0.0,0.0,0.0,6551
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Entorhinal cortex,-2.69,1.0,1.0,1.0,8614
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Entorhinal cortex,-0.79,1.0,1.0,0.0,9955
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Amygdala,-3.2,0.0,0.0,1.0,12432
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Amygdala,-2.21,1.0,1.0,1.0,14418
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Precuneus,-1.0,0.0,0.0,0.0,16970
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Precuneus,0.58,1.0,0.0,0.0,19029
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Superior frontal gyrus,-0.0,0.0,0.0,0.0,21305
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Superior frontal gyrus,0.3,0.0,0.0,0.0,22213
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Superior temporal gyrus,0.08,0.0,0.0,0.0,26066
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Superior temporal gyrus,-1.85,0.0,0.0,0.0,27680
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Insula,-0.76,0.0,0.0,0.0,30287
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Insula,-0.79,1.0,1.0,0.0,32018
+,sim0011,SIM11,CASE-06,ai_on,rating,Left Lateral ventricle,3.51,1.0,1.0,1.0,34312
+,sim0011,SIM11,CASE-06,ai_on,rating,Right Lateral ventricle,1.73,0.0,0.0,0.0,36474
+,sim0011,SIM11,CASE-06,ai_on,case_complete,,,,,,37274
+,sim0011,SIM11,CASE-07,ai_on,case_open,,,,,,0
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Hippocampus,0.48,1.0,1.0,0.0,3592
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Hippocampus,-0.14,1.0,0.0,0.0,5516
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Entorhinal cortex,-0.2,0.0,0.0,0.0,6292
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Entorhinal cortex,0.16,0.0,0.0,0.0,7570
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Amygdala,0.08,0.0,0.0,0.0,11408
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Amygdala,2.27,1.0,1.0,1.0,14359
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Precuneus,-0.77,1.0,1.0,0.0,15184
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Precuneus,-1.32,0.0,0.0,0.0,18319
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Superior frontal gyrus,0.28,0.0,0.0,0.0,19988
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Superior frontal gyrus,-0.66,0.0,0.0,0.0,20838
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Superior temporal gyrus,-1.93,0.0,0.0,0.0,22565
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Superior temporal gyrus,-0.96,1.0,1.0,0.0,24480
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Insula,1.99,0.0,0.0,0.0,26247
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Insula,-0.79,0.0,0.0,0.0,27692
+,sim0011,SIM11,CASE-07,ai_on,rating,Left Lateral ventricle,-1.58,0.0,0.0,0.0,31064
+,sim0011,SIM11,CASE-07,ai_on,rating,Right Lateral ventricle,1.92,0.0,0.0,0.0,33386
+,sim0011,SIM11,CASE-07,ai_on,case_complete,,,,,,34186
+,sim0011,SIM11,CASE-08,ai_off,case_open,,,,,,0
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Hippocampus,-3.93,,1.0,1.0,2941
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Hippocampus,-3.69,,1.0,1.0,6002
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Entorhinal cortex,-0.68,,0.0,0.0,10283
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Entorhinal cortex,-1.33,,0.0,0.0,12266
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Amygdala,-2.08,,1.0,1.0,15824
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Amygdala,-2.28,,1.0,1.0,18232
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Precuneus,0.42,,0.0,0.0,19433
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Precuneus,0.14,,0.0,0.0,22836
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Superior frontal gyrus,0.05,,0.0,0.0,24330
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Superior frontal gyrus,-0.65,,0.0,0.0,26349
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Superior temporal gyrus,-0.09,,0.0,0.0,29302
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Superior temporal gyrus,1.42,,0.0,0.0,31275
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Insula,-0.69,,0.0,0.0,33008
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Insula,0.24,,1.0,0.0,35986
+,sim0011,SIM11,CASE-08,ai_off,rating,Left Lateral ventricle,2.93,,1.0,1.0,39590
+,sim0011,SIM11,CASE-08,ai_off,rating,Right Lateral ventricle,1.24,,0.0,0.0,41529
+,sim0011,SIM11,CASE-08,ai_off,case_complete,,,,,,42329
+,sim0012,SIM12,CASE-01,ai_off,case_open,,,,,,0
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Hippocampus,0.27,,0.0,0.0,2836
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Hippocampus,0.68,,0.0,0.0,5338
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Entorhinal cortex,-1.76,,1.0,0.0,7549
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Entorhinal cortex,0.12,,0.0,0.0,12509
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Amygdala,-0.02,,0.0,0.0,14682
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Amygdala,0.79,,0.0,0.0,16423
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Precuneus,0.06,,0.0,0.0,18523
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Precuneus,0.42,,0.0,0.0,21328
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Superior frontal gyrus,0.33,,0.0,0.0,23192
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Superior frontal gyrus,0.79,,0.0,0.0,24891
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Superior temporal gyrus,-0.17,,0.0,0.0,26253
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Superior temporal gyrus,1.1,,0.0,0.0,31709
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Insula,-0.39,,0.0,0.0,34724
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Insula,0.48,,0.0,0.0,36287
+,sim0012,SIM12,CASE-01,ai_off,rating,Left Lateral ventricle,0.37,,0.0,0.0,39228
+,sim0012,SIM12,CASE-01,ai_off,rating,Right Lateral ventricle,1.93,,1.0,0.0,42094
+,sim0012,SIM12,CASE-01,ai_off,case_complete,,,,,,42894
+,sim0012,SIM12,CASE-02,ai_off,case_open,,,,,,0
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Hippocampus,-2.78,,1.0,1.0,3835
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Hippocampus,-0.97,,1.0,0.0,5527
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Entorhinal cortex,-3.48,,1.0,1.0,9365
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Entorhinal cortex,-2.48,,1.0,1.0,12677
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Amygdala,-2.1,,1.0,1.0,14244
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Amygdala,-1.88,,1.0,0.0,16847
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Precuneus,0.26,,0.0,0.0,19494
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Precuneus,-1.31,,0.0,0.0,22232
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Superior frontal gyrus,-0.42,,0.0,0.0,23306
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Superior frontal gyrus,-0.25,,0.0,0.0,25976
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Superior temporal gyrus,-0.78,,0.0,0.0,28083
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Superior temporal gyrus,-1.51,,0.0,0.0,31411
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Insula,0.15,,0.0,0.0,34037
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Insula,0.64,,0.0,0.0,35988
+,sim0012,SIM12,CASE-02,ai_off,rating,Left Lateral ventricle,2.01,,0.0,1.0,37660
+,sim0012,SIM12,CASE-02,ai_off,rating,Right Lateral ventricle,2.65,,1.0,1.0,39852
+,sim0012,SIM12,CASE-02,ai_off,case_complete,,,,,,40652
+,sim0012,SIM12,CASE-03,ai_on,case_open,,,,,,0
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Hippocampus,-0.83,0.0,0.0,0.0,2159
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Hippocampus,0.13,0.0,0.0,0.0,5126
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Entorhinal cortex,-0.38,0.0,0.0,0.0,6714
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Entorhinal cortex,0.56,0.0,0.0,0.0,9396
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Amygdala,0.41,0.0,0.0,0.0,10661
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Amygdala,-0.33,0.0,0.0,0.0,13277
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Precuneus,-1.08,0.0,0.0,0.0,15404
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Precuneus,-0.42,0.0,0.0,0.0,16777
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Superior frontal gyrus,0.43,0.0,0.0,0.0,18610
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Superior frontal gyrus,0.6,0.0,0.0,0.0,19880
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Superior temporal gyrus,-0.38,0.0,0.0,0.0,21756
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Superior temporal gyrus,-1.52,0.0,0.0,0.0,23479
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Insula,-1.19,1.0,0.0,0.0,25092
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Insula,0.36,0.0,0.0,0.0,27448
+,sim0012,SIM12,CASE-03,ai_on,rating,Left Lateral ventricle,-0.34,1.0,1.0,0.0,28576
+,sim0012,SIM12,CASE-03,ai_on,rating,Right Lateral ventricle,-0.32,0.0,0.0,0.0,30360
+,sim0012,SIM12,CASE-03,ai_on,case_complete,,,,,,31160
+,sim0012,SIM12,CASE-04,ai_on,case_open,,,,,,0
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Hippocampus,-3.02,1.0,1.0,1.0,1495
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Hippocampus,-2.74,1.0,1.0,1.0,3536
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Entorhinal cortex,-2.22,1.0,1.0,1.0,5094
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Entorhinal cortex,-4.16,1.0,1.0,1.0,5822
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Amygdala,-2.47,1.0,1.0,1.0,7505
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Amygdala,-2.13,1.0,1.0,1.0,9618
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Precuneus,0.2,0.0,0.0,0.0,12500
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Precuneus,0.75,0.0,0.0,0.0,13788
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Superior frontal gyrus,1.32,0.0,0.0,0.0,15592
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Superior frontal gyrus,-0.58,1.0,1.0,0.0,18316
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Superior temporal gyrus,-0.35,0.0,0.0,0.0,19846
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Superior temporal gyrus,0.57,0.0,0.0,0.0,22775
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Insula,-1.32,0.0,0.0,0.0,25234
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Insula,0.28,0.0,0.0,0.0,28027
+,sim0012,SIM12,CASE-04,ai_on,rating,Left Lateral ventricle,4.19,0.0,1.0,1.0,29813
+,sim0012,SIM12,CASE-04,ai_on,rating,Right Lateral ventricle,1.48,0.0,0.0,0.0,32415
+,sim0012,SIM12,CASE-04,ai_on,case_complete,,,,,,33215
+,sim0012,SIM12,CASE-05,ai_on,case_open,,,,,,0
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Hippocampus,-0.73,0.0,0.0,0.0,1393
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Hippocampus,-0.55,0.0,0.0,0.0,5977
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Entorhinal cortex,0.96,1.0,1.0,0.0,8942
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Entorhinal cortex,-0.14,0.0,0.0,0.0,12673
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Amygdala,-1.51,0.0,0.0,0.0,14391
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Amygdala,-0.05,0.0,0.0,0.0,17288
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Precuneus,0.12,0.0,0.0,0.0,19930
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Precuneus,-0.45,0.0,0.0,0.0,21707
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Superior frontal gyrus,-0.87,0.0,0.0,0.0,22430
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Superior frontal gyrus,1.92,1.0,1.0,0.0,28012
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Superior temporal gyrus,0.75,0.0,0.0,0.0,30519
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Superior temporal gyrus,0.84,0.0,0.0,0.0,31466
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Insula,-0.14,0.0,0.0,0.0,32716
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Insula,-0.59,0.0,1.0,0.0,35154
+,sim0012,SIM12,CASE-05,ai_on,rating,Left Lateral ventricle,-0.41,0.0,0.0,0.0,36704
+,sim0012,SIM12,CASE-05,ai_on,rating,Right Lateral ventricle,-1.15,1.0,1.0,0.0,38139
+,sim0012,SIM12,CASE-05,ai_on,case_complete,,,,,,38939
+,sim0012,SIM12,CASE-06,ai_off,case_open,,,,,,0
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Hippocampus,-1.63,,0.0,0.0,1723
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Hippocampus,-1.99,,0.0,0.0,4478
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Entorhinal cortex,-2.69,,1.0,1.0,9502
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Entorhinal cortex,-0.79,,0.0,0.0,12911
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Amygdala,-3.2,,1.0,1.0,14805
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Amygdala,-2.21,,1.0,1.0,19423
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Precuneus,-1.0,,0.0,0.0,25738
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Precuneus,0.58,,0.0,0.0,28449
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Superior frontal gyrus,-0.0,,0.0,0.0,30968
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Superior frontal gyrus,0.3,,0.0,0.0,32612
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Superior temporal gyrus,0.08,,0.0,0.0,34241
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Superior temporal gyrus,-1.85,,0.0,0.0,35658
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Insula,-0.76,,0.0,0.0,37314
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Insula,-0.79,,0.0,0.0,38638
+,sim0012,SIM12,CASE-06,ai_off,rating,Left Lateral ventricle,3.51,,1.0,1.0,40782
+,sim0012,SIM12,CASE-06,ai_off,rating,Right Lateral ventricle,1.73,,0.0,0.0,42594
+,sim0012,SIM12,CASE-06,ai_off,case_complete,,,,,,43394
+,sim0012,SIM12,CASE-07,ai_off,case_open,,,,,,0
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Hippocampus,0.48,,0.0,0.0,2065
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Hippocampus,-0.14,,0.0,0.0,4892
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Entorhinal cortex,-0.2,,0.0,0.0,6497
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Entorhinal cortex,0.16,,0.0,0.0,8316
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Amygdala,0.08,,0.0,0.0,10823
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Amygdala,2.27,,1.0,1.0,17077
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Precuneus,-0.77,,0.0,0.0,20436
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Precuneus,-1.32,,0.0,0.0,21569
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Superior frontal gyrus,0.28,,0.0,0.0,24700
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Superior frontal gyrus,-0.66,,0.0,0.0,27614
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Superior temporal gyrus,-1.93,,0.0,0.0,29768
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Superior temporal gyrus,-0.96,,0.0,0.0,30607
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Insula,1.99,,0.0,0.0,32332
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Insula,-0.79,,0.0,0.0,35074
+,sim0012,SIM12,CASE-07,ai_off,rating,Left Lateral ventricle,-1.58,,0.0,0.0,40056
+,sim0012,SIM12,CASE-07,ai_off,rating,Right Lateral ventricle,1.92,,1.0,0.0,43566
+,sim0012,SIM12,CASE-07,ai_off,case_complete,,,,,,44366
+,sim0012,SIM12,CASE-08,ai_on,case_open,,,,,,0
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Hippocampus,-3.93,1.0,1.0,1.0,1699
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Hippocampus,-3.69,1.0,1.0,1.0,2975
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Entorhinal cortex,-0.68,0.0,0.0,0.0,5290
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Entorhinal cortex,-1.33,0.0,0.0,0.0,7446
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Amygdala,-2.08,1.0,1.0,1.0,9401
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Amygdala,-2.28,1.0,1.0,1.0,11210
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Precuneus,0.42,0.0,0.0,0.0,12882
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Precuneus,0.14,0.0,0.0,0.0,15381
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Superior frontal gyrus,0.05,1.0,1.0,0.0,17947
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Superior frontal gyrus,-0.65,0.0,0.0,0.0,20269
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Superior temporal gyrus,-0.09,0.0,0.0,0.0,21858
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Superior temporal gyrus,1.42,0.0,0.0,0.0,25770
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Insula,-0.69,0.0,0.0,0.0,27531
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Insula,0.24,0.0,0.0,0.0,29607
+,sim0012,SIM12,CASE-08,ai_on,rating,Left Lateral ventricle,2.93,0.0,0.0,1.0,32195
+,sim0012,SIM12,CASE-08,ai_on,rating,Right Lateral ventricle,1.24,1.0,1.0,0.0,35284
+,sim0012,SIM12,CASE-08,ai_on,case_complete,,,,,,36084
