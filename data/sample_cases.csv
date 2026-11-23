@@ -1,129 +1,129 @@
-case_id,region,z_score,ground_truth,ai_flag
-CASE-01,Left Hippocampus,0.27,0,0
-CASE-01,Right Hippocampus,0.68,0,0
-CASE-01,Left Entorhinal cortex,-1.76,0,1
-CASE-01,Right Entorhinal cortex,0.12,0,0
-CASE-01,Left Amygdala,-0.02,0,0
-CASE-01,Right Amygdala,0.79,0,1
-CASE-01,Left Precuneus,0.06,0,1
-CASE-01,Right Precuneus,0.42,0,0
-CASE-01,Left Superior frontal gyrus,0.33,0,0
-CASE-01,Right Superior frontal gyrus,0.79,0,0
-CASE-01,Left Superior temporal gyrus,-0.17,0,0
-CASE-01,Right Superior temporal gyrus,1.1,0,1
-CASE-01,Left Insula,-0.39,0,0
-CASE-01,Right Insula,0.48,0,0
-CASE-01,Left Lateral ventricle,0.37,0,0
-CASE-01,Right Lateral ventricle,1.93,0,1
-CASE-02,Left Hippocampus,-2.78,1,1
-CASE-02,Right Hippocampus,-0.97,0,0
-CASE-02,Left Entorhinal cortex,-3.48,1,1
-CASE-02,Right Entorhinal cortex,-2.48,1,0
-CASE-02,Left Amygdala,-2.1,1,1
-CASE-02,Right Amygdala,-1.88,0,0
-CASE-02,Left Precuneus,0.26,0,0
-CASE-02,Right Precuneus,-1.31,0,0
-CASE-02,Left Superior frontal gyrus,-0.42,0,0
-CASE-02,Right Superior frontal gyrus,-0.25,0,0
-CASE-02,Left Superior temporal gyrus,-0.78,0,0
-CASE-02,Right Superior temporal gyrus,-1.51,0,0
-CASE-02,Left Insula,0.15,0,0
-CASE-02,Right Insula,0.64,0,0
-CASE-02,Left Lateral ventricle,2.01,1,1
-CASE-02,Right Lateral ventricle,2.65,1,1
-CASE-03,Left Hippocampus,-0.83,0,0
-CASE-03,Right Hippocampus,0.13,0,0
-CASE-03,Left Entorhinal cortex,-0.38,0,0
-CASE-03,Right Entorhinal cortex,0.56,0,0
-CASE-03,Left Amygdala,0.41,0,0
-CASE-03,Right Amygdala,-0.33,0,0
-CASE-03,Left Precuneus,-1.08,0,0
-CASE-03,Right Precuneus,-0.42,0,0
-CASE-03,Left Superior frontal gyrus,0.43,0,0
-CASE-03,Right Superior frontal gyrus,0.6,0,0
-CASE-03,Left Superior temporal gyrus,-0.38,0,0
-CASE-03,Right Superior temporal gyrus,-1.52,0,0
-CASE-03,Left Insula,-1.19,0,1
-CASE-03,Right Insula,0.36,0,0
-CASE-03,Left Lateral ventricle,-0.34,0,1
-CASE-03,Right Lateral ventricle,-0.32,0,0
-CASE-04,Left Hippocampus,-3.02,1,1
-CASE-04,Right Hippocampus,-2.74,1,1
-CASE-04,Left Entorhinal cortex,-2.22,1,1
-CASE-04,Right Entorhinal cortex,-4.16,1,1
-CASE-04,Left Amygdala,-2.47,1,1
-CASE-04,Right Amygdala,-2.13,1,1
-CASE-04,Left Precuneus,0.2,0,0
-CASE-04,Right Precuneus,0.75,0,0
-CASE-04,Left Superior frontal gyrus,1.32,0,0
-CASE-04,Right Superior frontal gyrus,-0.58,0,1
-CASE-04,Left Superior temporal gyrus,-0.35,0,0
-CASE-04,Right Superior temporal gyrus,0.57,0,0
-CASE-04,Left Insula,-1.32,0,0
-CASE-04,Right Insula,0.28,0,0
-CASE-04,Left Lateral ventricle,4.19,1,0
-CASE-04,Right Lateral ventricle,1.48,0,0
-CASE-05,Left Hippocampus,-0.73,0,0
-CASE-05,Right Hippocampus,-0.55,0,0
-CASE-05,Left Entorhinal cortex,0.96,0,1
-CASE-05,Right Entorhinal cortex,-0.14,0,0
-CASE-05,Left Amygdala,-1.51,0,0
-CASE-05,Right Amygdala,-0.05,0,0
-CASE-05,Left Precuneus,0.12,0,0
-CASE-05,Right Precuneus,-0.45,0,0
-CASE-05,Left Superior frontal gyrus,-0.87,0,0
-CASE-05,Right Superior frontal gyrus,1.92,0,1
-CASE-05,Left Superior temporal gyrus,0.75,0,0
-CASE-05,Right Superior temporal gyrus,0.84,0,0
-CASE-05,Left Insula,-0.14,0,0
-CASE-05,Right Insula,-0.59,0,0
-CASE-05,Left Lateral ventricle,-0.41,0,0
-CASE-05,Right Lateral ventricle,-1.15,0,1
-CASE-06,Left Hippocampus,-1.63,0,1
-CASE-06,Right Hippocampus,-1.99,0,0
-CASE-06,Left Entorhinal cortex,-2.69,1,1
-CASE-06,Right Entorhinal cortex,-0.79,0,1
-CASE-06,Left Amygdala,-3.2,1,0
-CASE-06,Right Amygdala,-2.21,1,1
-CASE-06,Left Precuneus,-1.0,0,0
-CASE-06,Right Precuneus,0.58,0,1
-CASE-06,Left Superior frontal gyrus,-0.0,0,0
-CASE-06,Right Superior frontal gyrus,0.3,0,0
-CASE-06,Left Superior temporal gyrus,0.08,0,0
-CASE-06,Right Superior temporal gyrus,-1.85,0,0
-CASE-06,Left Insula,-0.76,0,0
-CASE-06,Right Insula,-0.79,0,1
-CASE-06,Left Lateral ventricle,3.51,1,1
-CASE-06,Right Lateral ventricle,1.73,0,0
-CASE-07,Left Hippocampus,0.48,0,1
-CASE-07,Right Hippocampus,-0.14,0,1
-CASE-07,Left Entorhinal cortex,-0.2,0,0
-CASE-07,Right Entorhinal cortex,0.16,0,0
-CASE-07,Left Amygdala,0.08,0,0
-CASE-07,Right Amygdala,2.27,1,1
-CASE-07,Left Precuneus,-0.77,0,1
-CASE-07,Right Precuneus,-1.32,0,0
-CASE-07,Left Superior frontal gyrus,0.28,0,0
-CASE-07,Right Superior frontal gyrus,-0.66,0,0
-CASE-07,Left Superior temporal gyrus,-1.93,0,0
-CASE-07,Right Superior temporal gyrus,-0.96,0,1
-CASE-07,Left Insula,1.99,0,0
-CASE-07,Right Insula,-0.79,0,0
-CASE-07,Left Lateral ventricle,-1.58,0,0
-CASE-07,Right Lateral ventricle,1.92,0,0
-CASE-08,Left Hippocampus,-3.93,1,1
-CASE-08,Right Hippocampus,-3.69,1,1
-CASE-08,Left Entorhinal cortex,-0.68,0,0
-CASE-08,Right Entorhinal cortex,-1.33,0,0
-CASE-08,Left Amygdala,-2.08,1,1
-CASE-08,Right Amygdala,-2.28,1,1
-CASE-08,Left Precuneus,0.42,0,0
-CASE-08,Right Precuneus,0.14,0,0
-CASE-08,Left Superior frontal gyrus,0.05,0,1
-CASE-08,Right Superior frontal gyrus,-0.65,0,0
-CASE-08,Left Superior temporal gyrus,-0.09,0,0
-CASE-08,Right Superior temporal gyrus,1.42,0,0
-CASE-08,Left Insula,-0.69,0,0
-CASE-08,Right Insula,0.24,0,0
-CASE-08,Left Lateral ventricle,2.93,1,0
-CASE-08,Right Lateral ventricle,1.24,0,1
+case_id,region,z_score,ground_truth,ai_flag,ai_confidence
+CASE-01,Left Hippocampus,-0.25,0,0,high
+CASE-01,Right Hippocampus,-0.13,0,1,high
+CASE-01,Left Entorhinal cortex,-0.04,0,0,high
+CASE-01,Right Entorhinal cortex,-0.33,0,0,high
+CASE-01,Left Amygdala,0.62,0,0,high
+CASE-01,Right Amygdala,-0.59,0,0,high
+CASE-01,Left Precuneus,0.77,0,0,high
+CASE-01,Right Precuneus,-0.0,0,0,high
+CASE-01,Left Superior frontal gyrus,-0.56,0,0,high
+CASE-01,Right Superior frontal gyrus,0.54,0,0,high
+CASE-01,Left Superior temporal gyrus,1.72,0,0,low
+CASE-01,Right Superior temporal gyrus,-0.42,0,0,high
+CASE-01,Left Insula,-0.52,0,0,high
+CASE-01,Right Insula,0.96,0,0,high
+CASE-01,Left Lateral ventricle,-0.78,0,0,high
+CASE-01,Right Lateral ventricle,0.27,0,0,high
+CASE-02,Left Hippocampus,-0.61,0,0,high
+CASE-02,Right Hippocampus,-3.1,1,1,high
+CASE-02,Left Entorhinal cortex,-3.03,1,1,high
+CASE-02,Right Entorhinal cortex,-3.92,1,1,high
+CASE-02,Left Amygdala,-1.94,1,1,low
+CASE-02,Right Amygdala,-2.13,1,1,low
+CASE-02,Left Precuneus,-1.71,0,0,low
+CASE-02,Right Precuneus,0.52,0,0,high
+CASE-02,Left Superior frontal gyrus,-0.31,0,0,high
+CASE-02,Right Superior frontal gyrus,-0.05,0,0,high
+CASE-02,Left Superior temporal gyrus,-0.52,0,0,high
+CASE-02,Right Superior temporal gyrus,0.2,0,0,high
+CASE-02,Left Insula,0.66,0,0,high
+CASE-02,Right Insula,-0.3,0,0,high
+CASE-02,Left Lateral ventricle,-0.55,0,1,high
+CASE-02,Right Lateral ventricle,2.72,1,0,high
+CASE-03,Left Hippocampus,0.05,0,0,high
+CASE-03,Right Hippocampus,-0.66,0,0,high
+CASE-03,Left Entorhinal cortex,-0.11,0,0,high
+CASE-03,Right Entorhinal cortex,-0.08,0,0,high
+CASE-03,Left Amygdala,-0.2,0,0,high
+CASE-03,Right Amygdala,0.82,0,0,high
+CASE-03,Left Precuneus,-0.83,0,0,high
+CASE-03,Right Precuneus,1.64,0,0,low
+CASE-03,Left Superior frontal gyrus,0.72,0,0,high
+CASE-03,Right Superior frontal gyrus,-1.03,0,0,high
+CASE-03,Left Superior temporal gyrus,0.46,0,1,high
+CASE-03,Right Superior temporal gyrus,-0.76,0,0,high
+CASE-03,Left Insula,3.25,0,0,high
+CASE-03,Right Insula,-1.96,0,0,low
+CASE-03,Left Lateral ventricle,-0.94,0,0,high
+CASE-03,Right Lateral ventricle,0.41,0,0,high
+CASE-04,Left Hippocampus,-3.42,1,1,high
+CASE-04,Right Hippocampus,-2.72,1,1,high
+CASE-04,Left Entorhinal cortex,-2.82,1,1,high
+CASE-04,Right Entorhinal cortex,-0.58,0,0,high
+CASE-04,Left Amygdala,-1.23,0,0,high
+CASE-04,Right Amygdala,-2.6,1,1,high
+CASE-04,Left Precuneus,-1.06,0,0,high
+CASE-04,Right Precuneus,0.08,0,0,high
+CASE-04,Left Superior frontal gyrus,1.29,0,0,high
+CASE-04,Right Superior frontal gyrus,1.21,0,0,high
+CASE-04,Left Superior temporal gyrus,-0.45,0,0,high
+CASE-04,Right Superior temporal gyrus,2.35,0,0,low
+CASE-04,Left Insula,0.39,0,0,high
+CASE-04,Right Insula,0.82,0,0,high
+CASE-04,Left Lateral ventricle,1.81,0,0,low
+CASE-04,Right Lateral ventricle,3.29,1,1,high
+CASE-05,Left Hippocampus,-0.47,0,0,high
+CASE-05,Right Hippocampus,-0.96,0,0,high
+CASE-05,Left Entorhinal cortex,-1.18,0,0,high
+CASE-05,Right Entorhinal cortex,0.2,0,0,high
+CASE-05,Left Amygdala,1.17,0,1,high
+CASE-05,Right Amygdala,-0.49,0,0,high
+CASE-05,Left Precuneus,0.31,0,0,high
+CASE-05,Right Precuneus,0.2,0,1,high
+CASE-05,Left Superior frontal gyrus,1.26,0,0,high
+CASE-05,Right Superior frontal gyrus,-1.61,0,0,low
+CASE-05,Left Superior temporal gyrus,0.72,0,0,high
+CASE-05,Right Superior temporal gyrus,-2.01,0,1,low
+CASE-05,Left Insula,-0.91,0,0,high
+CASE-05,Right Insula,-2.32,0,0,low
+CASE-05,Left Lateral ventricle,-1.71,0,1,low
+CASE-05,Right Lateral ventricle,2.03,1,1,low
+CASE-06,Left Hippocampus,-3.09,1,1,high
+CASE-06,Right Hippocampus,-1.27,0,0,high
+CASE-06,Left Entorhinal cortex,-2.91,1,1,high
+CASE-06,Right Entorhinal cortex,-2.5,1,1,low
+CASE-06,Left Amygdala,-2.04,1,0,low
+CASE-06,Right Amygdala,-0.12,0,0,high
+CASE-06,Left Precuneus,1.61,0,0,low
+CASE-06,Right Precuneus,-0.41,0,0,high
+CASE-06,Left Superior frontal gyrus,-0.44,0,0,high
+CASE-06,Right Superior frontal gyrus,-0.15,0,0,high
+CASE-06,Left Superior temporal gyrus,0.26,0,0,high
+CASE-06,Right Superior temporal gyrus,-0.22,0,0,high
+CASE-06,Left Insula,0.04,0,0,high
+CASE-06,Right Insula,0.31,0,0,high
+CASE-06,Left Lateral ventricle,1.41,0,0,low
+CASE-06,Right Lateral ventricle,2.74,1,1,high
+CASE-07,Left Hippocampus,0.35,0,0,high
+CASE-07,Right Hippocampus,2.15,0,0,low
+CASE-07,Left Entorhinal cortex,1.79,0,1,low
+CASE-07,Right Entorhinal cortex,-0.23,0,0,high
+CASE-07,Left Amygdala,0.3,0,0,high
+CASE-07,Right Amygdala,0.41,0,0,high
+CASE-07,Left Precuneus,2.0,0,1,low
+CASE-07,Right Precuneus,-0.65,0,0,high
+CASE-07,Left Superior frontal gyrus,1.68,0,1,low
+CASE-07,Right Superior frontal gyrus,-0.9,0,0,high
+CASE-07,Left Superior temporal gyrus,-0.45,0,0,high
+CASE-07,Right Superior temporal gyrus,-0.6,0,0,high
+CASE-07,Left Insula,0.27,0,0,high
+CASE-07,Right Insula,-2.15,0,0,low
+CASE-07,Left Lateral ventricle,-0.69,0,0,high
+CASE-07,Right Lateral ventricle,0.48,0,0,high
+CASE-08,Left Hippocampus,-1.95,1,1,low
+CASE-08,Right Hippocampus,-2.89,1,1,high
+CASE-08,Left Entorhinal cortex,-1.41,0,1,low
+CASE-08,Right Entorhinal cortex,-3.66,1,1,high
+CASE-08,Left Amygdala,-2.74,1,0,high
+CASE-08,Right Amygdala,-2.55,1,1,low
+CASE-08,Left Precuneus,1.21,0,0,high
+CASE-08,Right Precuneus,0.38,0,0,high
+CASE-08,Left Superior frontal gyrus,-1.84,0,0,low
+CASE-08,Right Superior frontal gyrus,0.61,0,0,high
+CASE-08,Left Superior temporal gyrus,-2.05,1,1,low
+CASE-08,Right Superior temporal gyrus,0.76,0,1,high
+CASE-08,Left Insula,-0.53,0,0,high
+CASE-08,Right Insula,0.47,0,0,high
+CASE-08,Left Lateral ventricle,2.91,1,1,high
+CASE-08,Right Lateral ventricle,1.96,1,1,low
